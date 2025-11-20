@@ -1,0 +1,4 @@
+confusables
+ijson
+pandas
+requests
