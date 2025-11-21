@@ -1,4 +1,4 @@
-# Dataset
+# Datasets
 
 This folder contains package lists and small example datasets used by the analyzers in this repository. It includes the original popularity snapshot used to drive large-scale runs, plus a small, local test dataset with both unobfuscated and obfuscated variants for fast experiments.
 

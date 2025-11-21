@@ -1,4 +1,4 @@
-# Scripts: BST_analyzer.py and HUT_analyzer.py
+# Analyzers
 
 This folder contains two analysis scripts used to download npm packages, inspect their JavaScript source across versions, and export per-file time-series metrics useful for research and detection experiments.
 
@@ -13,7 +13,7 @@ Overview
 	- Output: `homoglyph_count.csv`, `invisible_count.csv`, and `total_chars.csv` per package with the same rows/columns layout (file × version).
 	- Use case: discover packages or versions that introduce homoglyphs or invisible characters which may indicate supply-chain manipulation or malicious obfuscation.
 
-## How the scripts work (common flow)
+## How the scripts work
 1. Read a package list JSON (`most_popular_packs_22_10_25.json`) using a streaming parser (`ijson`) to avoid loading the whole file in memory (it could be large).
 2. For each package, fetch metadata from the npm registry and download all available version tarballs.
 3. Extract each version into a temporary directory and recursively search for files with the configured extension (default: `.js`).

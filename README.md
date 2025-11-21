@@ -3,8 +3,8 @@
 This repository contains data, tools and example artifacts used for research into source-level attacks, obfuscation and detection. The goal is to provide reproducible datasets and lightweight analyzers so defenders and researchers can study how malicious payloads and suspicious patterns appear across package versions.
 
 ## Contents (high level)
-- `dataset/` — dataset snapshot of analyzed packages in our research.
-- `scripts/` — analysis scripts that download npm packages, extract versions, analyze source files and export per-file time-series CSV metrics (see `BST_analyzer.py` and `HUT_analyzer.py`).
+- `analyzers/` — analysis scripts that download npm packages, extract versions, analyze source files and export per-file time-series CSV metrics (see `BST_analyzer.py` and `HUT_analyzer.py`).
+- `datasets/` — dataset snapshot of analyzed packages in our research.
 - `resources/` — example payloads and other small artifacts preserved for reproducible study (includes `ratatouille_payload`).
 
 ## Why this repo
