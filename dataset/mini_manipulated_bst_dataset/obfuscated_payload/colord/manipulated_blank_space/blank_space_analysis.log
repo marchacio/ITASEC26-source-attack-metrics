@@ -1,0 +1,25 @@
+2025-10-29 13:54:38,976 - INFO - Cloning https://github.com/omgovich/colord...
+2025-10-29 13:54:39,726 - INFO - Repository 'colord' successfully cloned to 'repos/colord'.
+2025-10-29 13:54:39,840 - INFO - Starting analysis of repository colord with extension js.
+Manipulated file: /Users/marco/Projects/BST_HUT_analyzer/repos/colord/rollup.config.js
+2025-10-29 13:54:39,868 - INFO - Analyzing 16 tags for extension 'js'.
+2025-10-29 13:54:39,868 - INFO - Analyzing tag v1.0 (1/16).
+2025-10-29 13:54:40,439 - INFO - Analyzing tag v1.1 (2/16).
+2025-10-29 13:54:40,977 - INFO - Analyzing tag v1.2 (3/16).
+2025-10-29 13:54:41,469 - INFO - Analyzing tag v1.3 (4/16).
+2025-10-29 13:54:42,014 - INFO - Analyzing tag v1.4 (5/16).
+2025-10-29 13:54:42,529 - INFO - Analyzing tag v1.5 (6/16).
+2025-10-29 13:54:43,026 - INFO - Analyzing tag v1.6 (7/16).
+2025-10-29 13:54:43,514 - INFO - Analyzing tag v1.7 (8/16).
+2025-10-29 13:54:44,005 - INFO - Analyzing tag v2 (9/16).
+2025-10-29 13:54:44,514 - INFO - Analyzing tag v2.2 (10/16).
+2025-10-29 13:54:45,097 - INFO - Analyzing tag v2.4 (11/16).
+2025-10-29 13:54:45,640 - INFO - Analyzing tag v2.7 (12/16).
+2025-10-29 13:54:46,139 - INFO - Analyzing tag v2.8 (13/16).
+2025-10-29 13:54:46,622 - INFO - Analyzing tag v2.9 (14/16).
+2025-10-29 13:54:47,093 - INFO - Analyzing tag PRE-TEST (15/16).
+2025-10-29 13:54:47,579 - INFO - Analyzing tag TEST (16/16).
+2025-10-29 13:54:48,073 - INFO - Exporting BlankSpaceAnalyzer results to CSV...
+2025-10-29 13:54:48,082 - INFO - Blank Space Ratio report saved to: analytics/colord/manipulated_blank_space/blank_space_ratio.csv
+2025-10-29 13:54:48,082 - INFO - Max Line Length report saved to: analytics/colord/manipulated_blank_space/blank_space_max_line_length.csv
+2025-10-29 13:54:48,082 - INFO - Results saved in: analytics/colord/manipulated_blank_space

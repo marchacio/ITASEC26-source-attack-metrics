@@ -1,0 +1,89 @@
+2025-10-28 13:56:12,112 - INFO - Cloning https://github.com/elbywan/wretch...
+2025-10-28 13:56:13,751 - INFO - Repository 'wretch' successfully cloned to 'repos/wretch'.
+2025-10-28 13:56:13,881 - INFO - Starting analysis of repository wretch with extension js.
+Manipulated file: /Users/marco/Projects/BST_HUT_analyzer/repos/wretch/scripts/conventional-changelog-wretch/index.js
+2025-10-28 13:56:13,918 - INFO - Analyzing 80 tags for extension 'js'.
+2025-10-28 13:56:13,918 - INFO - Analyzing tag 0.0.1 (1/80).
+2025-10-28 13:56:14,554 - INFO - Analyzing tag 0.1.0 (2/80).
+2025-10-28 13:56:15,115 - INFO - Analyzing tag 0.1.1 (3/80).
+2025-10-28 13:56:15,617 - INFO - Analyzing tag 0.1.2 (4/80).
+2025-10-28 13:56:16,128 - INFO - Analyzing tag 0.1.3 (5/80).
+2025-10-28 13:56:16,718 - INFO - Analyzing tag 0.1.4 (6/80).
+2025-10-28 13:56:17,237 - INFO - Analyzing tag 0.1.5 (7/80).
+2025-10-28 13:56:17,745 - INFO - Analyzing tag 0.2.0 (8/80).
+2025-10-28 13:56:18,248 - INFO - Analyzing tag 0.2.1 (9/80).
+2025-10-28 13:56:18,765 - INFO - Analyzing tag 0.2.2 (10/80).
+2025-10-28 13:56:19,274 - INFO - Analyzing tag 0.2.3 (11/80).
+2025-10-28 13:56:19,803 - INFO - Analyzing tag 0.2.4 (12/80).
+2025-10-28 13:56:20,301 - INFO - Analyzing tag 0.3.0 (13/80).
+2025-10-28 13:56:20,811 - INFO - Analyzing tag 0.3.1 (14/80).
+2025-10-28 13:56:21,325 - INFO - Analyzing tag 1.0.0 (15/80).
+2025-10-28 13:56:21,822 - INFO - Analyzing tag 1.1.0 (16/80).
+2025-10-28 13:56:22,336 - INFO - Analyzing tag 1.1.1 (17/80).
+2025-10-28 13:56:22,830 - INFO - Analyzing tag 1.1.2 (18/80).
+2025-10-28 13:56:23,380 - INFO - Analyzing tag 1.2.0 (19/80).
+2025-10-28 13:56:23,904 - INFO - Analyzing tag 1.3.0 (20/80).
+2025-10-28 13:56:24,694 - INFO - Analyzing tag 1.3.1 (21/80).
+2025-10-28 13:56:25,227 - INFO - Analyzing tag 1.4.0 (22/80).
+2025-10-28 13:56:25,731 - INFO - Analyzing tag 1.4.1 (23/80).
+2025-10-28 13:56:26,239 - INFO - Analyzing tag 1.4.2 (24/80).
+2025-10-28 13:56:26,702 - INFO - Analyzing tag 1.5.0 (25/80).
+2025-10-28 13:56:27,176 - INFO - Analyzing tag 1.5.1 (26/80).
+2025-10-28 13:56:27,662 - INFO - Analyzing tag 1.5.2 (27/80).
+2025-10-28 13:56:28,216 - INFO - Analyzing tag 1.5.3 (28/80).
+2025-10-28 13:56:28,741 - INFO - Analyzing tag 1.5.4 (29/80).
+2025-10-28 13:56:29,203 - INFO - Analyzing tag 1.5.5 (30/80).
+2025-10-28 13:56:29,674 - INFO - Analyzing tag 1.6.0 (31/80).
+2025-10-28 13:56:30,150 - INFO - Analyzing tag 1.7.0 (32/80).
+2025-10-28 13:56:30,615 - INFO - Analyzing tag 1.7.1 (33/80).
+2025-10-28 13:56:31,086 - INFO - Analyzing tag 1.7.2 (34/80).
+2025-10-28 13:56:31,553 - INFO - Analyzing tag 1.7.3 (35/80).
+2025-10-28 13:56:32,005 - INFO - Analyzing tag 1.7.4 (36/80).
+2025-10-28 13:56:32,457 - INFO - Analyzing tag 1.7.5 (37/80).
+2025-10-28 13:56:32,954 - INFO - Analyzing tag 1.7.6 (38/80).
+2025-10-28 13:56:33,457 - INFO - Analyzing tag 1.7.7 (39/80).
+2025-10-28 13:56:33,920 - INFO - Analyzing tag 1.7.8 (40/80).
+2025-10-28 13:56:34,395 - INFO - Analyzing tag 1.7.9 (41/80).
+2025-10-28 13:56:34,871 - INFO - Analyzing tag 1.7.10 (42/80).
+2025-10-28 13:56:35,334 - INFO - Analyzing tag 2.0.0-next.1 (43/80).
+2025-10-28 13:56:35,811 - INFO - Analyzing tag 2.0.0 (44/80).
+2025-10-28 13:56:36,337 - INFO - Analyzing tag 2.0.1 (45/80).
+2025-10-28 13:56:36,815 - INFO - Analyzing tag 2.0.2 (46/80).
+2025-10-28 13:56:37,285 - INFO - Analyzing tag 2.0.3 (47/80).
+2025-10-28 13:56:37,757 - INFO - Analyzing tag 2.0.4 (48/80).
+2025-10-28 13:56:38,221 - INFO - Analyzing tag 2.1.0 (49/80).
+2025-10-28 13:56:38,673 - INFO - Analyzing tag 2.1.1 (50/80).
+2025-10-28 13:56:39,145 - INFO - Analyzing tag 2.1.2 (51/80).
+2025-10-28 13:56:39,637 - INFO - Analyzing tag 2.1.3 (52/80).
+2025-10-28 13:56:40,114 - INFO - Analyzing tag 2.1.4 (53/80).
+2025-10-28 13:56:40,571 - INFO - Analyzing tag 2.1.5 (54/80).
+2025-10-28 13:56:41,073 - INFO - Analyzing tag 2.2.0 (55/80).
+2025-10-28 13:56:41,553 - INFO - Analyzing tag 2.2.1 (56/80).
+2025-10-28 13:56:42,021 - INFO - Analyzing tag 2.2.2 (57/80).
+2025-10-28 13:56:42,507 - INFO - Analyzing tag 2.2.3 (58/80).
+2025-10-28 13:56:42,983 - INFO - Analyzing tag 2.3.0 (59/80).
+2025-10-28 13:56:43,466 - INFO - Analyzing tag 2.3.1 (60/80).
+2025-10-28 13:56:43,946 - INFO - Analyzing tag 2.3.2 (61/80).
+2025-10-28 13:56:44,455 - INFO - Analyzing tag 2.4.0 (62/80).
+2025-10-28 13:56:44,931 - INFO - Analyzing tag 2.4.1 (63/80).
+2025-10-28 13:56:45,414 - INFO - Analyzing tag 2.5.0 (64/80).
+2025-10-28 13:56:45,890 - INFO - Analyzing tag 2.5.1 (65/80).
+2025-10-28 13:56:46,365 - INFO - Analyzing tag 2.5.2 (66/80).
+2025-10-28 13:56:46,838 - INFO - Analyzing tag 2.6.0 (67/80).
+2025-10-28 13:56:47,305 - INFO - Analyzing tag 2.7.0 (68/80).
+2025-10-28 13:56:47,799 - INFO - Analyzing tag 2.7.1 (69/80).
+2025-10-28 13:56:48,287 - INFO - Analyzing tag 2.8.0 (70/80).
+2025-10-28 13:56:48,769 - INFO - Analyzing tag 2.8.1 (71/80).
+2025-10-28 13:56:49,249 - INFO - Analyzing tag 2.9.0 (72/80).
+2025-10-28 13:56:49,728 - INFO - Analyzing tag 2.9.1 (73/80).
+2025-10-28 13:56:50,213 - INFO - Analyzing tag 2.10.0 (74/80).
+2025-10-28 13:56:50,701 - INFO - Analyzing tag 2.11.0 (75/80).
+2025-10-28 13:56:51,218 - INFO - Analyzing tag 2.11.1 (76/80).
+2025-10-28 13:56:51,695 - INFO - Analyzing tag 3.0.0 (77/80).
+2025-10-28 13:56:52,185 - INFO - Analyzing tag 3.0.1 (78/80).
+2025-10-28 13:56:52,680 - INFO - Analyzing tag 3.0.2 (79/80).
+2025-10-28 13:56:53,137 - INFO - Analyzing tag TEST (80/80).
+2025-10-28 13:56:53,625 - INFO - Exporting BlankSpaceAnalyzer results to CSV...
+2025-10-28 13:56:53,654 - INFO - Blank Space Ratio report saved to: analytics/wretch/manipulated_blank_space/blank_space_ratio.csv
+2025-10-28 13:56:53,654 - INFO - Max Line Length report saved to: analytics/wretch/manipulated_blank_space/blank_space_max_line_length.csv
+2025-10-28 13:56:53,654 - INFO - Results saved in: analytics/wretch/manipulated_blank_space

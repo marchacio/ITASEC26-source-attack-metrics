@@ -1,0 +1,28 @@
+2025-10-29 14:00:19,693 - INFO - Cloning https://github.com/davidmerfield/randomColor...
+2025-10-29 14:00:21,572 - INFO - Repository 'randomColor' successfully cloned to 'repos/randomColor'.
+2025-10-29 14:00:21,671 - INFO - Starting analysis of repository randomColor with extension js.
+Manipulated file: /Users/marco/Projects/BST_HUT_analyzer/repos/randomColor/demo/index.js
+2025-10-29 14:00:21,698 - INFO - Analyzing 19 tags for extension 'js'.
+2025-10-29 14:00:21,698 - INFO - Analyzing tag 0.1.0 (1/19).
+2025-10-29 14:00:22,238 - INFO - Analyzing tag 0.1.1 (2/19).
+2025-10-29 14:00:22,741 - INFO - Analyzing tag 0.2 (3/19).
+2025-10-29 14:00:23,241 - INFO - Analyzing tag 0.2.0 (4/19).
+2025-10-29 14:00:23,744 - INFO - Analyzing tag 0.3.0 (5/19).
+2025-10-29 14:00:24,232 - INFO - Analyzing tag 0.3.1 (6/19).
+2025-10-29 14:00:24,710 - INFO - Analyzing tag 0.3.2 (7/19).
+2025-10-29 14:00:25,198 - INFO - Analyzing tag 0.4.0 (8/19).
+2025-10-29 14:00:25,689 - INFO - Analyzing tag 0.4.1 (9/19).
+2025-10-29 14:00:26,174 - INFO - Analyzing tag 0.4.2 (10/19).
+2025-10-29 14:00:26,666 - INFO - Analyzing tag 0.4.4 (11/19).
+2025-10-29 14:00:27,150 - INFO - Analyzing tag 0.5.0 (12/19).
+2025-10-29 14:00:27,642 - INFO - Analyzing tag 0.5.1 (13/19).
+2025-10-29 14:00:28,123 - INFO - Analyzing tag 0.5.2 (14/19).
+2025-10-29 14:00:28,608 - INFO - Analyzing tag 0.5.4 (15/19).
+2025-10-29 14:00:29,310 - INFO - Analyzing tag 0.6.0 (16/19).
+2025-10-29 14:00:29,956 - INFO - Analyzing tag 0.6.1 (17/19).
+2025-10-29 14:00:30,473 - INFO - Analyzing tag PRE-TEST (18/19).
+2025-10-29 14:00:31,137 - INFO - Analyzing tag TEST (19/19).
+2025-10-29 14:00:31,656 - INFO - Exporting BlankSpaceAnalyzer results to CSV...
+2025-10-29 14:00:31,664 - INFO - Blank Space Ratio report saved to: analytics/randomColor/manipulated_blank_space/blank_space_ratio.csv
+2025-10-29 14:00:31,665 - INFO - Max Line Length report saved to: analytics/randomColor/manipulated_blank_space/blank_space_max_line_length.csv
+2025-10-29 14:00:31,665 - INFO - Results saved in: analytics/randomColor/manipulated_blank_space

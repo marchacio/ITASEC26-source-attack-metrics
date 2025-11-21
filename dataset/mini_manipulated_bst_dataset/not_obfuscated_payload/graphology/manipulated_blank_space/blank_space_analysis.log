@@ -1,0 +1,77 @@
+2025-10-28 14:33:21,048 - INFO - Cloning https://github.com/graphology/graphology...
+2025-10-28 14:33:23,234 - INFO - Repository 'graphology' successfully cloned to 'repos/graphology'.
+2025-10-28 14:33:23,602 - INFO - Starting analysis of repository graphology with extension js.
+Manipulated file: /Users/marco/Projects/BST_HUT_analyzer/repos/graphology/src/metrics/graph/weighted-size.js
+2025-10-28 14:33:23,634 - INFO - Analyzing 68 tags for extension 'js'.
+2025-10-28 14:33:23,635 - INFO - Analyzing tag 0.0.1 (1/68).
+2025-10-28 14:33:24,249 - INFO - Analyzing tag 0.0.2 (2/68).
+2025-10-28 14:33:24,803 - INFO - Analyzing tag 0.0.3 (3/68).
+2025-10-28 14:33:25,324 - INFO - Analyzing tag 0.0.4 (4/68).
+2025-10-28 14:33:25,854 - INFO - Analyzing tag 0.1.0 (5/68).
+2025-10-28 14:33:26,377 - INFO - Analyzing tag 0.1.1 (6/68).
+2025-10-28 14:33:26,922 - INFO - Analyzing tag 0.2.0 (7/68).
+2025-10-28 14:33:27,596 - INFO - Analyzing tag 0.3.0 (8/68).
+2025-10-28 14:33:28,144 - INFO - Analyzing tag 0.4.0 (9/68).
+2025-10-28 14:33:28,699 - INFO - Analyzing tag 0.4.1 (10/68).
+2025-10-28 14:33:29,243 - INFO - Analyzing tag 0.4.2 (11/68).
+2025-10-28 14:33:29,657 - INFO - Analyzing tag 0.5.0 (12/68).
+2025-10-28 14:33:30,193 - INFO - Analyzing tag 0.5.1 (13/68).
+2025-10-28 14:33:30,735 - INFO - Analyzing tag 0.5.2 (14/68).
+2025-10-28 14:33:31,267 - INFO - Analyzing tag 0.5.3 (15/68).
+2025-10-28 14:33:31,823 - INFO - Analyzing tag 0.5.4 (16/68).
+2025-10-28 14:33:32,366 - INFO - Analyzing tag 0.6.0 (17/68).
+2025-10-28 14:33:32,899 - INFO - Analyzing tag 0.7.0 (18/68).
+2025-10-28 14:33:33,437 - INFO - Analyzing tag 0.7.1 (19/68).
+2025-10-28 14:33:33,950 - INFO - Analyzing tag 0.8.0 (20/68).
+2025-10-28 14:33:34,448 - INFO - Analyzing tag 0.9.0 (21/68).
+2025-10-28 14:33:34,935 - INFO - Analyzing tag 0.9.1 (22/68).
+2025-10-28 14:33:35,451 - INFO - Analyzing tag 0.10.0 (23/68).
+2025-10-28 14:33:35,957 - INFO - Analyzing tag 0.10.1 (24/68).
+2025-10-28 14:33:36,453 - INFO - Analyzing tag 0.10.2 (25/68).
+2025-10-28 14:33:36,942 - INFO - Analyzing tag 0.11.0 (26/68).
+2025-10-28 14:33:37,435 - INFO - Analyzing tag 0.11.1 (27/68).
+2025-10-28 14:33:37,931 - INFO - Analyzing tag 0.11.2 (28/68).
+2025-10-28 14:33:38,424 - INFO - Analyzing tag 0.11.3 (29/68).
+2025-10-28 14:33:38,924 - INFO - Analyzing tag 0.12.0 (30/68).
+2025-10-28 14:33:39,440 - INFO - Analyzing tag 0.13.0 (31/68).
+2025-10-28 14:33:39,959 - INFO - Analyzing tag 0.13.1 (32/68).
+2025-10-28 14:33:40,474 - INFO - Analyzing tag 0.14.0 (33/68).
+2025-10-28 14:33:40,954 - INFO - Analyzing tag 0.14.1 (34/68).
+2025-10-28 14:33:41,454 - INFO - Analyzing tag 0.15.0 (35/68).
+2025-10-28 14:33:41,961 - INFO - Analyzing tag 0.15.1 (36/68).
+2025-10-28 14:33:42,462 - INFO - Analyzing tag 0.15.2 (37/68).
+2025-10-28 14:33:42,977 - INFO - Analyzing tag 0.16.0 (38/68).
+2025-10-28 14:33:43,478 - INFO - Analyzing tag 0.16.1 (39/68).
+2025-10-28 14:33:43,973 - INFO - Analyzing tag 0.17.0 (40/68).
+2025-10-28 14:33:44,496 - INFO - Analyzing tag 0.17.1 (41/68).
+2025-10-28 14:33:45,005 - INFO - Analyzing tag 0.18.0 (42/68).
+2025-10-28 14:33:45,524 - INFO - Analyzing tag 0.19.0 (43/68).
+2025-10-28 14:33:46,042 - INFO - Analyzing tag 0.19.1 (44/68).
+2025-10-28 14:33:46,569 - INFO - Analyzing tag 0.19.2 (45/68).
+2025-10-28 14:33:47,072 - INFO - Analyzing tag 0.19.3 (46/68).
+2025-10-28 14:33:47,573 - INFO - Analyzing tag 0.20.0 (47/68).
+2025-10-28 14:33:48,074 - INFO - Analyzing tag 0.21.0 (48/68).
+2025-10-28 14:33:48,564 - INFO - Analyzing tag 0.21.1 (49/68).
+2025-10-28 14:33:49,192 - INFO - Analyzing tag 0.21.1-newbuild (50/68).
+2025-10-28 14:33:49,902 - INFO - Analyzing tag 0.22.0 (51/68).
+2025-10-28 14:33:50,407 - INFO - Analyzing tag 0.22.1 (52/68).
+2025-10-28 14:33:50,957 - INFO - Analyzing tag 0.22.2 (53/68).
+2025-10-28 14:33:51,520 - INFO - Analyzing tag 0.23.0 (54/68).
+2025-10-28 14:33:52,105 - INFO - Analyzing tag 0.23.1 (55/68).
+2025-10-28 14:33:52,660 - INFO - Analyzing tag 0.23.2 (56/68).
+2025-10-28 14:33:53,209 - INFO - Analyzing tag 0.23.2-lib (57/68).
+2025-10-28 14:33:53,783 - INFO - Analyzing tag 0.24.0 (58/68).
+2025-10-28 14:33:54,333 - INFO - Analyzing tag 0.24.1 (59/68).
+2025-10-28 14:33:54,874 - INFO - Analyzing tag 0.25.0 (60/68).
+2025-10-28 14:33:55,422 - INFO - Analyzing tag 0.25.1 (61/68).
+2025-10-28 14:33:56,021 - INFO - Analyzing tag 0.25.1-lib (62/68).
+2025-10-28 14:33:56,548 - INFO - Analyzing tag 0.25.2 (63/68).
+2025-10-28 14:33:57,088 - INFO - Analyzing tag 0.25.3 (64/68).
+2025-10-28 14:33:57,638 - INFO - Analyzing tag 0.25.4 (65/68).
+2025-10-28 14:33:58,146 - INFO - Analyzing tag 0.26.0 (66/68).
+2025-10-28 14:33:58,709 - INFO - Analyzing tag PRE-TEST (67/68).
+2025-10-28 14:33:59,250 - INFO - Analyzing tag TEST (68/68).
+2025-10-28 14:33:59,779 - INFO - Exporting BlankSpaceAnalyzer results to CSV...
+2025-10-28 14:33:59,880 - INFO - Blank Space Ratio report saved to: analytics/graphology/manipulated_blank_space/blank_space_ratio.csv
+2025-10-28 14:33:59,881 - INFO - Max Line Length report saved to: analytics/graphology/manipulated_blank_space/blank_space_max_line_length.csv
+2025-10-28 14:33:59,881 - INFO - Results saved in: analytics/graphology/manipulated_blank_space

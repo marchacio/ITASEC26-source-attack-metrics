@@ -1,0 +1,35 @@
+2025-10-29 14:01:02,589 - INFO - Cloning https://github.com/developit/unistore...
+2025-10-29 14:01:03,236 - INFO - Repository 'unistore' successfully cloned to 'repos/unistore'.
+2025-10-29 14:01:03,333 - INFO - Starting analysis of repository unistore with extension js.
+Manipulated file: /Users/marco/Projects/BST_HUT_analyzer/repos/unistore/devtools.js
+2025-10-29 14:01:03,359 - INFO - Analyzing 26 tags for extension 'js'.
+2025-10-29 14:01:03,360 - INFO - Analyzing tag 2.0.0 (1/26).
+2025-10-29 14:01:03,887 - INFO - Analyzing tag 2.0.1 (2/26).
+2025-10-29 14:01:04,413 - INFO - Analyzing tag 2.1.0 (3/26).
+2025-10-29 14:01:04,903 - INFO - Analyzing tag 2.2.0 (4/26).
+2025-10-29 14:01:05,378 - INFO - Analyzing tag 2.3.0 (5/26).
+2025-10-29 14:01:05,855 - INFO - Analyzing tag 2.4.0 (6/26).
+2025-10-29 14:01:06,350 - INFO - Analyzing tag 3.0.0 (7/26).
+2025-10-29 14:01:06,846 - INFO - Analyzing tag 3.0.1 (8/26).
+2025-10-29 14:01:07,329 - INFO - Analyzing tag 3.0.2 (9/26).
+2025-10-29 14:01:07,820 - INFO - Analyzing tag 3.0.3 (10/26).
+2025-10-29 14:01:08,320 - INFO - Analyzing tag 3.0.4 (11/26).
+2025-10-29 14:01:08,813 - INFO - Analyzing tag 3.0.5 (12/26).
+2025-10-29 14:01:09,301 - INFO - Analyzing tag 3.0.6 (13/26).
+2025-10-29 14:01:09,777 - INFO - Analyzing tag 3.1.0 (14/26).
+2025-10-29 14:01:10,323 - INFO - Analyzing tag 3.1.1 (15/26).
+2025-10-29 14:01:11,065 - INFO - Analyzing tag 3.2.0 (16/26).
+2025-10-29 14:01:11,553 - INFO - Analyzing tag 3.2.1 (17/26).
+2025-10-29 14:01:12,065 - INFO - Analyzing tag 3.3.0 (18/26).
+2025-10-29 14:01:12,566 - INFO - Analyzing tag 3.3.1 (19/26).
+2025-10-29 14:01:13,048 - INFO - Analyzing tag 3.3.2 (20/26).
+2025-10-29 14:01:13,534 - INFO - Analyzing tag 3.4.0 (21/26).
+2025-10-29 14:01:14,014 - INFO - Analyzing tag 3.4.1 (22/26).
+2025-10-29 14:01:14,498 - INFO - Analyzing tag 3.5.0 (23/26).
+2025-10-29 14:01:14,973 - INFO - Analyzing tag 3.5.1 (24/26).
+2025-10-29 14:01:15,452 - INFO - Analyzing tag 3.5.2 (25/26).
+2025-10-29 14:01:15,949 - INFO - Analyzing tag TEST (26/26).
+2025-10-29 14:01:16,445 - INFO - Exporting BlankSpaceAnalyzer results to CSV...
+2025-10-29 14:01:16,458 - INFO - Blank Space Ratio report saved to: analytics/unistore/manipulated_blank_space/blank_space_ratio.csv
+2025-10-29 14:01:16,458 - INFO - Max Line Length report saved to: analytics/unistore/manipulated_blank_space/blank_space_max_line_length.csv
+2025-10-29 14:01:16,458 - INFO - Results saved in: analytics/unistore/manipulated_blank_space

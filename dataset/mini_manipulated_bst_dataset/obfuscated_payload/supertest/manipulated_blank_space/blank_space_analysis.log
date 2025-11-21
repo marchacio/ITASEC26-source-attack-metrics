@@ -1,0 +1,81 @@
+2025-10-29 11:57:39,812 - INFO - Cloning https://github.com/visionmedia/supertest...
+2025-10-29 11:57:40,865 - INFO - Repository 'supertest' successfully cloned to 'repos/supertest'.
+2025-10-29 11:57:40,940 - INFO - Starting analysis of repository supertest with extension js.
+Manipulated file: None
+2025-10-29 11:57:40,971 - INFO - Analyzing 72 tags for extension 'js'.
+2025-10-29 11:57:40,971 - INFO - Analyzing tag 0.1.0 (1/72).
+2025-10-29 11:57:41,517 - INFO - Analyzing tag 0.1.1 (2/72).
+2025-10-29 11:57:41,984 - INFO - Analyzing tag 0.1.2 (3/72).
+2025-10-29 11:57:42,462 - INFO - Analyzing tag 0.2.0 (4/72).
+2025-10-29 11:57:42,895 - INFO - Analyzing tag 0.3.0 (5/72).
+2025-10-29 11:57:43,342 - INFO - Analyzing tag 0.3.1 (6/72).
+2025-10-29 11:57:43,765 - INFO - Analyzing tag 0.4.0 (7/72).
+2025-10-29 11:57:44,255 - INFO - Analyzing tag 0.4.1 (8/72).
+2025-10-29 11:57:44,698 - INFO - Analyzing tag 0.4.2 (9/72).
+2025-10-29 11:57:45,137 - INFO - Analyzing tag 0.5.0 (10/72).
+2025-10-29 11:57:45,559 - INFO - Analyzing tag 0.5.1 (11/72).
+2025-10-29 11:57:45,994 - INFO - Analyzing tag 0.6.0 (12/72).
+2025-10-29 11:57:46,425 - INFO - Analyzing tag 0.6.1 (13/72).
+2025-10-29 11:57:46,862 - INFO - Analyzing tag 0.7.0 (14/72).
+2025-10-29 11:57:47,305 - INFO - Analyzing tag 0.7.1 (15/72).
+2025-10-29 11:57:47,738 - INFO - Analyzing tag 0.8.0 (16/72).
+2025-10-29 11:57:48,184 - INFO - Analyzing tag 0.8.1 (17/72).
+2025-10-29 11:57:48,623 - INFO - Analyzing tag 0.8.2 (18/72).
+2025-10-29 11:57:49,064 - INFO - Analyzing tag 0.8.3 (19/72).
+2025-10-29 11:57:49,500 - INFO - Analyzing tag 0.9.0 (20/72).
+2025-10-29 11:57:49,935 - INFO - Analyzing tag 0.9.1 (21/72).
+2025-10-29 11:57:50,355 - INFO - Analyzing tag 0.9.2 (22/72).
+2025-10-29 11:57:50,779 - INFO - Analyzing tag 0.10.0 (23/72).
+2025-10-29 11:57:51,213 - INFO - Analyzing tag 0.11.0 (24/72).
+2025-10-29 11:57:51,655 - INFO - Analyzing tag 0.12.0 (25/72).
+2025-10-29 11:57:52,071 - INFO - Analyzing tag 0.12.1 (26/72).
+2025-10-29 11:57:52,512 - INFO - Analyzing tag 0.13.0 (27/72).
+2025-10-29 11:57:52,950 - INFO - Analyzing tag 0.14.0 (28/72).
+2025-10-29 11:57:53,392 - INFO - Analyzing tag 0.15.0 (29/72).
+2025-10-29 11:57:53,815 - INFO - Analyzing tag 1.0.0 (30/72).
+2025-10-29 11:57:54,247 - INFO - Analyzing tag 1.0.1 (31/72).
+2025-10-29 11:57:54,679 - INFO - Analyzing tag v1.1.0 (32/72).
+2025-10-29 11:57:55,086 - INFO - Analyzing tag v1.2.0 (33/72).
+2025-10-29 11:57:55,521 - INFO - Analyzing tag v2.0.0 (34/72).
+2025-10-29 11:57:55,950 - INFO - Analyzing tag v3.0.0 (35/72).
+2025-10-29 11:57:56,392 - INFO - Analyzing tag v3.1.0 (36/72).
+2025-10-29 11:57:56,834 - INFO - Analyzing tag v3.2.0 (37/72).
+2025-10-29 11:57:57,267 - INFO - Analyzing tag v3.3.0 (38/72).
+2025-10-29 11:57:57,707 - INFO - Analyzing tag v3.4.0 (39/72).
+2025-10-29 11:57:58,149 - INFO - Analyzing tag v3.4.1 (40/72).
+2025-10-29 11:57:58,577 - INFO - Analyzing tag v3.4.2 (41/72).
+2025-10-29 11:57:59,015 - INFO - Analyzing tag v4.0.0 (42/72).
+2025-10-29 11:57:59,430 - INFO - Analyzing tag v4.0.1 (43/72).
+2025-10-29 11:57:59,871 - INFO - Analyzing tag v4.0.2 (44/72).
+2025-10-29 11:58:00,309 - INFO - Analyzing tag v5.0.0-0 (45/72).
+2025-10-29 11:58:00,748 - INFO - Analyzing tag v5.0.0 (46/72).
+2025-10-29 11:58:01,184 - INFO - Analyzing tag v6.0.0 (47/72).
+2025-10-29 11:58:01,618 - INFO - Analyzing tag v6.0.1 (48/72).
+2025-10-29 11:58:02,059 - INFO - Analyzing tag v6.1.0 (49/72).
+2025-10-29 11:58:02,527 - INFO - Analyzing tag v6.1.1 (50/72).
+2025-10-29 11:58:02,998 - INFO - Analyzing tag v6.1.2 (51/72).
+2025-10-29 11:58:03,469 - INFO - Analyzing tag v6.1.3 (52/72).
+2025-10-29 11:58:03,906 - INFO - Analyzing tag v6.1.4 (53/72).
+2025-10-29 11:58:04,337 - INFO - Analyzing tag v6.1.5 (54/72).
+2025-10-29 11:58:04,772 - INFO - Analyzing tag v6.1.6 (55/72).
+2025-10-29 11:58:05,212 - INFO - Analyzing tag v6.2.0 (56/72).
+2025-10-29 11:58:05,659 - INFO - Analyzing tag v6.2.1 (57/72).
+2025-10-29 11:58:06,087 - INFO - Analyzing tag v6.2.2 (58/72).
+2025-10-29 11:58:06,513 - INFO - Analyzing tag v6.2.3 (59/72).
+2025-10-29 11:58:06,949 - INFO - Analyzing tag v6.2.4 (60/72).
+2025-10-29 11:58:07,378 - INFO - Analyzing tag v6.3.0 (61/72).
+2025-10-29 11:58:07,806 - INFO - Analyzing tag v6.3.1 (62/72).
+2025-10-29 11:58:08,245 - INFO - Analyzing tag v6.3.2 (63/72).
+2025-10-29 11:58:08,684 - INFO - Analyzing tag v6.3.3 (64/72).
+2025-10-29 11:58:09,102 - INFO - Analyzing tag v6.3.4 (65/72).
+2025-10-29 11:58:09,551 - INFO - Analyzing tag v7.0.0 (66/72).
+2025-10-29 11:58:09,975 - INFO - Analyzing tag v7.1.0 (67/72).
+2025-10-29 11:58:10,404 - INFO - Analyzing tag v7.1.1 (68/72).
+2025-10-29 11:58:10,828 - INFO - Analyzing tag v7.1.2 (69/72).
+2025-10-29 11:58:11,270 - INFO - Analyzing tag v7.1.3 (70/72).
+2025-10-29 11:58:11,715 - INFO - Analyzing tag v7.1.4 (71/72).
+2025-10-29 11:58:12,150 - INFO - Analyzing tag PRE-TEST (72/72).
+2025-10-29 11:58:12,584 - INFO - Exporting BlankSpaceAnalyzer results to CSV...
+2025-10-29 11:58:12,611 - INFO - Blank Space Ratio report saved to: analytics/supertest/manipulated_blank_space/blank_space_ratio.csv
+2025-10-29 11:58:12,611 - INFO - Max Line Length report saved to: analytics/supertest/manipulated_blank_space/blank_space_max_line_length.csv
+2025-10-29 11:58:12,611 - INFO - Results saved in: analytics/supertest/manipulated_blank_space

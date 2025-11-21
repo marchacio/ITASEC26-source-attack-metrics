@@ -1,0 +1,82 @@
+2025-10-29 13:59:39,269 - INFO - Cloning https://github.com/marpple/FxTS...
+2025-10-29 13:59:42,126 - INFO - Repository 'FxTS' successfully cloned to 'repos/FxTS'.
+2025-10-29 13:59:42,273 - INFO - Starting analysis of repository FxTS with extension js.
+Manipulated file: /Users/marco/Projects/BST_HUT_analyzer/repos/FxTS/website/analytics.js
+2025-10-29 13:59:42,307 - INFO - Analyzing 73 tags for extension 'js'.
+2025-10-29 13:59:42,307 - INFO - Analyzing tag v0.1.0 (1/73).
+2025-10-29 13:59:42,912 - INFO - Analyzing tag v0.1.2 (2/73).
+2025-10-29 13:59:43,436 - INFO - Analyzing tag v0.1.3 (3/73).
+2025-10-29 13:59:43,941 - INFO - Analyzing tag v0.1.4 (4/73).
+2025-10-29 13:59:44,447 - INFO - Analyzing tag v0.2.0 (5/73).
+2025-10-29 13:59:44,958 - INFO - Analyzing tag v0.2.1 (6/73).
+2025-10-29 13:59:45,473 - INFO - Analyzing tag v0.2.2 (7/73).
+2025-10-29 13:59:46,003 - INFO - Analyzing tag v0.2.3 (8/73).
+2025-10-29 13:59:46,488 - INFO - Analyzing tag v0.3.0 (9/73).
+2025-10-29 13:59:47,023 - INFO - Analyzing tag v0.3.1 (10/73).
+2025-10-29 13:59:47,534 - INFO - Analyzing tag v0.3.2 (11/73).
+2025-10-29 13:59:48,040 - INFO - Analyzing tag v0.4.0 (12/73).
+2025-10-29 13:59:48,562 - INFO - Analyzing tag v0.4.1 (13/73).
+2025-10-29 13:59:49,098 - INFO - Analyzing tag v0.4.2 (14/73).
+2025-10-29 13:59:49,606 - INFO - Analyzing tag v0.5.0 (15/73).
+2025-10-29 13:59:50,128 - INFO - Analyzing tag v0.6.0 (16/73).
+2025-10-29 13:59:50,662 - INFO - Analyzing tag v0.6.1 (17/73).
+2025-10-29 13:59:51,208 - INFO - Analyzing tag v0.6.2 (18/73).
+2025-10-29 13:59:51,716 - INFO - Analyzing tag v0.7.0 (19/73).
+2025-10-29 13:59:52,232 - INFO - Analyzing tag v0.8.0 (20/73).
+2025-10-29 13:59:52,744 - INFO - Analyzing tag v0.9.0 (21/73).
+2025-10-29 13:59:53,255 - INFO - Analyzing tag v0.10.0 (22/73).
+2025-10-29 13:59:53,745 - INFO - Analyzing tag v0.10.1 (23/73).
+2025-10-29 13:59:54,249 - INFO - Analyzing tag v0.11.0 (24/73).
+2025-10-29 13:59:54,749 - INFO - Analyzing tag v0.12.0 (25/73).
+2025-10-29 13:59:55,268 - INFO - Analyzing tag v0.12.1 (26/73).
+2025-10-29 13:59:55,777 - INFO - Analyzing tag v0.13.0 (27/73).
+2025-10-29 13:59:56,308 - INFO - Analyzing tag v0.14.0 (28/73).
+2025-10-29 13:59:56,820 - INFO - Analyzing tag v0.15.0 (29/73).
+2025-10-29 13:59:57,324 - INFO - Analyzing tag v0.15.1 (30/73).
+2025-10-29 13:59:57,824 - INFO - Analyzing tag v0.16.0 (31/73).
+2025-10-29 13:59:58,321 - INFO - Analyzing tag v0.17.0 (32/73).
+2025-10-29 13:59:58,847 - INFO - Analyzing tag v0.18.0 (33/73).
+2025-10-29 13:59:59,339 - INFO - Analyzing tag v0.19.0 (34/73).
+2025-10-29 13:59:59,845 - INFO - Analyzing tag v0.20.0 (35/73).
+2025-10-29 14:00:00,347 - INFO - Analyzing tag v0.21.0 (36/73).
+2025-10-29 14:00:00,861 - INFO - Analyzing tag v0.22.0 (37/73).
+2025-10-29 14:00:01,359 - INFO - Analyzing tag v0.23.0 (38/73).
+2025-10-29 14:00:01,888 - INFO - Analyzing tag v0.23.1-0 (39/73).
+2025-10-29 14:00:02,392 - INFO - Analyzing tag v0.24.0 (40/73).
+2025-10-29 14:00:02,896 - INFO - Analyzing tag v0.24.1 (41/73).
+2025-10-29 14:00:03,403 - INFO - Analyzing tag v0.25.0 (42/73).
+2025-10-29 14:00:03,918 - INFO - Analyzing tag v0.26.0 (43/73).
+2025-10-29 14:00:04,404 - INFO - Analyzing tag v0.27.0 (44/73).
+2025-10-29 14:00:04,915 - INFO - Analyzing tag v0.28.0 (45/73).
+2025-10-29 14:00:05,410 - INFO - Analyzing tag v0.28.1-0 (46/73).
+2025-10-29 14:00:05,932 - INFO - Analyzing tag v0.28.1 (47/73).
+2025-10-29 14:00:06,434 - INFO - Analyzing tag v0.29.0 (48/73).
+2025-10-29 14:00:07,151 - INFO - Analyzing tag v1.0.0 (49/73).
+2025-10-29 14:00:07,653 - INFO - Analyzing tag v1.0.1 (50/73).
+2025-10-29 14:00:08,156 - INFO - Analyzing tag v1.1.0 (51/73).
+2025-10-29 14:00:08,655 - INFO - Analyzing tag v1.2.0 (52/73).
+2025-10-29 14:00:09,190 - INFO - Analyzing tag v1.3.0 (53/73).
+2025-10-29 14:00:09,702 - INFO - Analyzing tag v1.3.1-0 (54/73).
+2025-10-29 14:00:10,200 - INFO - Analyzing tag v1.4.0 (55/73).
+2025-10-29 14:00:10,718 - INFO - Analyzing tag v1.5.0 (56/73).
+2025-10-29 14:00:11,225 - INFO - Analyzing tag v1.6.0 (57/73).
+2025-10-29 14:00:11,717 - INFO - Analyzing tag v1.7.0 (58/73).
+2025-10-29 14:00:12,234 - INFO - Analyzing tag v1.8.0 (59/73).
+2025-10-29 14:00:12,729 - INFO - Analyzing tag v1.9.0 (60/73).
+2025-10-29 14:00:13,209 - INFO - Analyzing tag v1.10.0 (61/73).
+2025-10-29 14:00:13,694 - INFO - Analyzing tag v1.11.0 (62/73).
+2025-10-29 14:00:14,181 - INFO - Analyzing tag v1.12.0 (63/73).
+2025-10-29 14:00:14,667 - INFO - Analyzing tag v1.13.0 (64/73).
+2025-10-29 14:00:15,171 - INFO - Analyzing tag v1.13.1 (65/73).
+2025-10-29 14:00:15,682 - INFO - Analyzing tag v1.13.2 (66/73).
+2025-10-29 14:00:16,175 - INFO - Analyzing tag v1.14.0 (67/73).
+2025-10-29 14:00:16,658 - INFO - Analyzing tag v1.15.0 (68/73).
+2025-10-29 14:00:17,144 - INFO - Analyzing tag v1.16.0 (69/73).
+2025-10-29 14:00:17,636 - INFO - Analyzing tag v1.17.0 (70/73).
+2025-10-29 14:00:18,129 - INFO - Analyzing tag v1.18.0 (71/73).
+2025-10-29 14:00:18,639 - INFO - Analyzing tag v1.19.0 (72/73).
+2025-10-29 14:00:19,146 - INFO - Analyzing tag TEST (73/73).
+2025-10-29 14:00:19,661 - INFO - Exporting BlankSpaceAnalyzer results to CSV...
+2025-10-29 14:00:19,691 - INFO - Blank Space Ratio report saved to: analytics/FxTS/manipulated_blank_space/blank_space_ratio.csv
+2025-10-29 14:00:19,691 - INFO - Max Line Length report saved to: analytics/FxTS/manipulated_blank_space/blank_space_max_line_length.csv
+2025-10-29 14:00:19,691 - INFO - Results saved in: analytics/FxTS/manipulated_blank_space

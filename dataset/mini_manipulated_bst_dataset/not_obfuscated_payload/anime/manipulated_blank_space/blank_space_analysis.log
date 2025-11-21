@@ -1,0 +1,39 @@
+2025-10-28 14:19:33,703 - INFO - Cloning https://github.com/juliangarnier/anime...
+2025-10-28 14:19:43,713 - INFO - Repository 'anime' successfully cloned to 'repos/anime'.
+2025-10-28 14:19:43,891 - INFO - Starting analysis of repository anime with extension js.
+Manipulated file: /Users/marco/Projects/BST_HUT_analyzer/repos/anime/src/utils/target.js
+2025-10-28 14:19:43,920 - INFO - Analyzing 30 tags for extension 'js'.
+2025-10-28 14:19:43,921 - INFO - Analyzing tag v1.0 (1/30).
+2025-10-28 14:19:44,515 - INFO - Analyzing tag v1.1 (2/30).
+2025-10-28 14:19:45,097 - INFO - Analyzing tag v1.1.1 (3/30).
+2025-10-28 14:19:45,645 - INFO - Analyzing tag v1.1.2 (4/30).
+2025-10-28 14:19:46,180 - INFO - Analyzing tag v1.1.3 (5/30).
+2025-10-28 14:19:46,708 - INFO - Analyzing tag v2.0.0 (6/30).
+2025-10-28 14:19:47,315 - INFO - Analyzing tag v2.0.2 (7/30).
+2025-10-28 14:19:47,904 - INFO - Analyzing tag v2.1.0 (8/30).
+2025-10-28 14:19:48,448 - INFO - Analyzing tag v2.2.0 (9/30).
+2025-10-28 14:19:49,002 - INFO - Analyzing tag v3.0.0 (10/30).
+2025-10-28 14:19:49,586 - INFO - Analyzing tag v3.0.1 (11/30).
+2025-10-28 14:19:50,183 - INFO - Analyzing tag v3.1.0 (12/30).
+2025-10-28 14:19:50,796 - INFO - Analyzing tag 3.2.0 (13/30).
+2025-10-28 14:19:51,346 - INFO - Analyzing tag v3.2.1 (14/30).
+2025-10-28 14:19:51,888 - INFO - Analyzing tag v3.2.2 (15/30).
+2025-10-28 14:19:52,401 - INFO - Analyzing tag v1.0.0 (16/30).
+2025-10-28 14:19:52,943 - INFO - Analyzing tag 4.0.0 (17/30).
+2025-10-28 14:19:53,539 - INFO - Analyzing tag v4.0.0 (18/30).
+2025-10-28 14:19:54,134 - INFO - Analyzing tag v4.0.1 (19/30).
+2025-10-28 14:19:54,674 - INFO - Analyzing tag v4.0.2 (20/30).
+2025-10-28 14:19:55,218 - INFO - Analyzing tag v4.1.0 (21/30).
+2025-10-28 14:19:55,751 - INFO - Analyzing tag v4.1.1 (22/30).
+2025-10-28 14:19:56,272 - INFO - Analyzing tag v4.1.2 (23/30).
+2025-10-28 14:19:56,808 - INFO - Analyzing tag v4.1.3 (24/30).
+2025-10-28 14:19:57,320 - INFO - Analyzing tag v4.2.0-beta.0 (25/30).
+2025-10-28 14:19:57,877 - INFO - Analyzing tag v4.1.4 (26/30).
+2025-10-28 14:19:58,465 - INFO - Analyzing tag v4.2.0 (27/30).
+2025-10-28 14:19:59,049 - INFO - Analyzing tag v4.2.1 (28/30).
+2025-10-28 14:19:59,593 - INFO - Analyzing tag v4.2.2 (29/30).
+2025-10-28 14:20:00,137 - INFO - Analyzing tag TEST (30/30).
+2025-10-28 14:20:00,675 - INFO - Exporting BlankSpaceAnalyzer results to CSV...
+2025-10-28 14:20:00,703 - INFO - Blank Space Ratio report saved to: analytics/anime/manipulated_blank_space/blank_space_ratio.csv
+2025-10-28 14:20:00,703 - INFO - Max Line Length report saved to: analytics/anime/manipulated_blank_space/blank_space_max_line_length.csv
+2025-10-28 14:20:00,703 - INFO - Results saved in: analytics/anime/manipulated_blank_space

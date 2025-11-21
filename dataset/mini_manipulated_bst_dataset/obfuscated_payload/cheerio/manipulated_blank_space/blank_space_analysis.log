@@ -1,0 +1,79 @@
+2025-10-29 12:34:37,345 - INFO - Cloning https://github.com/cheeriojs/cheerio...
+2025-10-29 12:34:42,131 - INFO - Repository 'cheerio' successfully cloned to 'repos/cheerio'.
+2025-10-29 12:34:42,289 - INFO - Starting analysis of repository cheerio with extension js.
+Manipulated file: /Users/marco/Projects/BST_HUT_analyzer/repos/cheerio/website/babel.config.js
+2025-10-29 12:34:42,324 - INFO - Analyzing 70 tags for extension 'js'.
+2025-10-29 12:34:42,324 - INFO - Analyzing tag 0.1.0 (1/70).
+2025-10-29 12:34:42,929 - INFO - Analyzing tag 0.1.1 (2/70).
+2025-10-29 12:34:43,679 - INFO - Analyzing tag 0.1.2 (3/70).
+2025-10-29 12:34:44,194 - INFO - Analyzing tag 0.1.5 (4/70).
+2025-10-29 12:34:44,715 - INFO - Analyzing tag 0.2.0 (5/70).
+2025-10-29 12:34:45,212 - INFO - Analyzing tag 0.2.1 (6/70).
+2025-10-29 12:34:45,709 - INFO - Analyzing tag 0.2.2 (7/70).
+2025-10-29 12:34:46,239 - INFO - Analyzing tag 0.3.0 (8/70).
+2025-10-29 12:34:46,759 - INFO - Analyzing tag 0.4.0 (9/70).
+2025-10-29 12:34:47,293 - INFO - Analyzing tag 0.4.1 (10/70).
+2025-10-29 12:34:47,808 - INFO - Analyzing tag 0.4.2 (11/70).
+2025-10-29 12:34:48,290 - INFO - Analyzing tag 0.5.0 (12/70).
+2025-10-29 12:34:48,762 - INFO - Analyzing tag 0.5.1 (13/70).
+2025-10-29 12:34:49,217 - INFO - Analyzing tag 0.5.2 (14/70).
+2025-10-29 12:34:49,701 - INFO - Analyzing tag 0.6.0 (15/70).
+2025-10-29 12:34:50,144 - INFO - Analyzing tag 0.6.1 (16/70).
+2025-10-29 12:34:50,565 - INFO - Analyzing tag 0.6.2 (17/70).
+2025-10-29 12:34:51,023 - INFO - Analyzing tag 0.7.0 (18/70).
+2025-10-29 12:34:51,467 - INFO - Analyzing tag 0.8.0 (19/70).
+2025-10-29 12:34:51,966 - INFO - Analyzing tag 0.8.1 (20/70).
+2025-10-29 12:34:52,434 - INFO - Analyzing tag 0.8.2 (21/70).
+2025-10-29 12:34:52,886 - INFO - Analyzing tag 0.8.3 (22/70).
+2025-10-29 12:34:53,341 - INFO - Analyzing tag 0.9.0 (23/70).
+2025-10-29 12:34:53,800 - INFO - Analyzing tag 0.9.1 (24/70).
+2025-10-29 12:34:54,245 - INFO - Analyzing tag 0.9.2 (25/70).
+2025-10-29 12:34:54,684 - INFO - Analyzing tag 0.10.0 (26/70).
+2025-10-29 12:34:55,124 - INFO - Analyzing tag 0.10.1 (27/70).
+2025-10-29 12:34:55,572 - INFO - Analyzing tag 0.10.2 (28/70).
+2025-10-29 12:34:56,005 - INFO - Analyzing tag 0.10.3 (29/70).
+2025-10-29 12:34:56,459 - INFO - Analyzing tag 0.10.4 (30/70).
+2025-10-29 12:34:56,888 - INFO - Analyzing tag 0.10.5 (31/70).
+2025-10-29 12:34:57,326 - INFO - Analyzing tag 0.10.6 (32/70).
+2025-10-29 12:34:57,757 - INFO - Analyzing tag 0.10.7 (33/70).
+2025-10-29 12:34:58,198 - INFO - Analyzing tag 0.10.8 (34/70).
+2025-10-29 12:34:58,639 - INFO - Analyzing tag 0.11.0 (35/70).
+2025-10-29 12:34:59,082 - INFO - Analyzing tag 0.12.0 (36/70).
+2025-10-29 12:34:59,528 - INFO - Analyzing tag 0.12.1 (37/70).
+2025-10-29 12:34:59,968 - INFO - Analyzing tag 0.12.2 (38/70).
+2025-10-29 12:35:00,413 - INFO - Analyzing tag 0.12.3 (39/70).
+2025-10-29 12:35:00,855 - INFO - Analyzing tag 0.12.4 (40/70).
+2025-10-29 12:35:01,279 - INFO - Analyzing tag 0.13.0 (41/70).
+2025-10-29 12:35:01,733 - INFO - Analyzing tag 0.13.1 (42/70).
+2025-10-29 12:35:02,185 - INFO - Analyzing tag 0.14.0 (43/70).
+2025-10-29 12:35:02,624 - INFO - Analyzing tag 0.15.0 (44/70).
+2025-10-29 12:35:03,061 - INFO - Analyzing tag 0.16.0 (45/70).
+2025-10-29 12:35:03,505 - INFO - Analyzing tag 0.17.0 (46/70).
+2025-10-29 12:35:03,945 - INFO - Analyzing tag 0.18.0 (47/70).
+2025-10-29 12:35:04,376 - INFO - Analyzing tag 0.19.0 (48/70).
+2025-10-29 12:35:04,807 - INFO - Analyzing tag 0.20.0 (49/70).
+2025-10-29 12:35:05,233 - INFO - Analyzing tag v0.21.0 (50/70).
+2025-10-29 12:35:05,660 - INFO - Analyzing tag 0.21.0 (51/70).
+2025-10-29 12:35:06,117 - INFO - Analyzing tag 0.22.0 (52/70).
+2025-10-29 12:35:06,562 - INFO - Analyzing tag 1.0.0-rc.1 (53/70).
+2025-10-29 12:35:07,002 - INFO - Analyzing tag 1.0.0-rc.2 (54/70).
+2025-10-29 12:35:07,443 - INFO - Analyzing tag 1.0.0-rc.3 (55/70).
+2025-10-29 12:35:07,892 - INFO - Analyzing tag v1.0.0-rc.4 (56/70).
+2025-10-29 12:35:08,343 - INFO - Analyzing tag v1.0.0-rc.5 (57/70).
+2025-10-29 12:35:08,792 - INFO - Analyzing tag v1.0.0-rc.6 (58/70).
+2025-10-29 12:35:09,256 - INFO - Analyzing tag v1.0.0-rc.7 (59/70).
+2025-10-29 12:35:09,316 - INFO - Analyzing tag v1.0.0-rc.8 (60/70).
+2025-10-29 12:35:09,363 - INFO - Analyzing tag v1.0.0-rc.9 (61/70).
+2025-10-29 12:35:09,411 - INFO - Analyzing tag v1.0.0-rc.10 (62/70).
+2025-10-29 12:35:09,474 - INFO - Analyzing tag v1.0.0-rc.11 (63/70).
+2025-10-29 12:35:09,521 - INFO - Analyzing tag v1.0.0-rc.12 (64/70).
+2025-10-29 12:35:09,587 - INFO - Analyzing tag v1.0.0 (65/70).
+2025-10-29 12:35:10,120 - INFO - Analyzing tag v1.1.0 (66/70).
+2025-10-29 12:35:10,608 - INFO - Analyzing tag v1.1.1 (67/70).
+2025-10-29 12:35:11,077 - INFO - Analyzing tag v1.1.2 (68/70).
+2025-10-29 12:35:11,528 - INFO - Analyzing tag PRE-TEST (69/70).
+2025-10-29 12:35:11,970 - INFO - Analyzing tag TEST (70/70).
+2025-10-29 12:35:12,434 - INFO - Exporting BlankSpaceAnalyzer results to CSV...
+2025-10-29 12:35:12,465 - INFO - Blank Space Ratio report saved to: analytics/cheerio/manipulated_blank_space/blank_space_ratio.csv
+2025-10-29 12:35:12,466 - INFO - Max Line Length report saved to: analytics/cheerio/manipulated_blank_space/blank_space_max_line_length.csv
+2025-10-29 12:35:12,466 - INFO - Results saved in: analytics/cheerio/manipulated_blank_space

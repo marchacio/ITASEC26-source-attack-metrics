@@ -1,0 +1,11 @@
+2025-10-28 08:46:02,061 - INFO - Cloning https://github.com/freeCodeCamp/freeCodeCamp...
+2025-10-28 08:47:16,705 - INFO - Repository 'freeCodeCamp' successfully cloned to 'repos/freeCodeCamp'.
+2025-10-28 08:47:17,958 - INFO - Starting analysis of repository freeCodeCamp with extension js.
+Manipulated file: /Users/marco/Projects/BST_HUT_analyzer/repos/freeCodeCamp/tools/client-plugins/gatsby-source-challenges/gatsby-node.js
+2025-10-28 08:47:17,981 - INFO - Analyzing 2 tags for extension 'js'.
+2025-10-28 08:47:17,981 - INFO - Analyzing tag PRE-TEST (1/2).
+2025-10-28 08:47:18,768 - INFO - Analyzing tag TEST (2/2).
+2025-10-28 08:47:19,425 - INFO - Exporting BlankSpaceAnalyzer results to CSV...
+2025-10-28 08:47:19,436 - INFO - Blank Space Ratio report saved to: analytics/freeCodeCamp/manipulated_blank_space/blank_space_ratio.csv
+2025-10-28 08:47:19,436 - INFO - Max Line Length report saved to: analytics/freeCodeCamp/manipulated_blank_space/blank_space_max_line_length.csv
+2025-10-28 08:47:19,436 - INFO - Results saved in: analytics/freeCodeCamp/manipulated_blank_space

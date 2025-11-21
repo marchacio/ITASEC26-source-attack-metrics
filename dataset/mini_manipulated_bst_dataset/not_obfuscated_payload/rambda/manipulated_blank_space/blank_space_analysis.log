@@ -1,0 +1,84 @@
+2025-10-28 13:56:53,655 - INFO - Cloning https://github.com/selfrefactor/rambda...
+2025-10-28 13:56:57,909 - INFO - Repository 'rambda' successfully cloned to 'repos/rambda'.
+2025-10-28 13:56:58,065 - INFO - Starting analysis of repository rambda with extension js.
+Manipulated file: /Users/marco/Projects/BST_HUT_analyzer/repos/rambda/src/sort.js
+2025-10-28 13:56:58,098 - INFO - Analyzing 75 tags for extension 'js'.
+2025-10-28 13:56:58,098 - INFO - Analyzing tag 0.9.3 (1/75).
+2025-10-28 13:56:58,766 - INFO - Analyzing tag 1.0.0 (2/75).
+2025-10-28 13:56:59,378 - INFO - Analyzing tag 1.0.1 (3/75).
+2025-10-28 13:56:59,911 - INFO - Analyzing tag 1.0.2 (4/75).
+2025-10-28 13:57:00,412 - INFO - Analyzing tag 1.0.3 (5/75).
+2025-10-28 13:57:00,981 - INFO - Analyzing tag 1.0.4 (6/75).
+2025-10-28 13:57:01,517 - INFO - Analyzing tag 1.0.8 (7/75).
+2025-10-28 13:57:02,072 - INFO - Analyzing tag 1.1.0 (8/75).
+2025-10-28 13:57:02,602 - INFO - Analyzing tag 1.2.0 (9/75).
+2025-10-28 13:57:03,176 - INFO - Analyzing tag 2.2.0 (10/75).
+2025-10-28 13:57:03,725 - INFO - Analyzing tag 3.0.1 (11/75).
+2025-10-28 13:57:04,298 - INFO - Analyzing tag 3.2.0 (12/75).
+2025-10-28 13:57:04,854 - INFO - Analyzing tag 3.2.1 (13/75).
+2025-10-28 13:57:05,451 - INFO - Analyzing tag 3.3.0 (14/75).
+2025-10-28 13:57:05,995 - INFO - Analyzing tag 3.3.1 (15/75).
+2025-10-28 13:57:06,505 - INFO - Analyzing tag 3.3.2 (16/75).
+2025-10-28 13:57:07,028 - INFO - Analyzing tag 3.3.3 (17/75).
+2025-10-28 13:57:07,553 - INFO - Analyzing tag 3.4.0 (18/75).
+2025-10-28 13:57:08,083 - INFO - Analyzing tag 4.0.0 (19/75).
+2025-10-28 13:57:08,631 - INFO - Analyzing tag 4.0.1 (20/75).
+2025-10-28 13:57:09,163 - INFO - Analyzing tag 4.0.2 (21/75).
+2025-10-28 13:57:09,667 - INFO - Analyzing tag 4.0.3 (22/75).
+2025-10-28 13:57:10,230 - INFO - Analyzing tag 4.0.4 (23/75).
+2025-10-28 13:57:10,782 - INFO - Analyzing tag 4.1.0 (24/75).
+2025-10-28 13:57:11,332 - INFO - Analyzing tag 4.2.0 (25/75).
+2025-10-28 13:57:11,890 - INFO - Analyzing tag 4.2.1 (26/75).
+2025-10-28 13:57:12,424 - INFO - Analyzing tag 4.4.0 (27/75).
+2025-10-28 13:57:12,963 - INFO - Analyzing tag 4.4.1 (28/75).
+2025-10-28 13:57:13,493 - INFO - Analyzing tag 4.5.0 (29/75).
+2025-10-28 13:57:14,063 - INFO - Analyzing tag 4.7.0 (30/75).
+2025-10-28 13:57:14,630 - INFO - Analyzing tag 4.7.1 (31/75).
+2025-10-28 13:57:15,184 - INFO - Analyzing tag 4.7.2 (32/75).
+2025-10-28 13:57:15,684 - INFO - Analyzing tag 5.0.0-beta (33/75).
+2025-10-28 13:57:16,208 - INFO - Analyzing tag 5.0.0 (34/75).
+2025-10-28 13:57:16,736 - INFO - Analyzing tag 5.1.0-alpha (35/75).
+2025-10-28 13:57:17,389 - INFO - Analyzing tag 5.6.0 (36/75).
+2025-10-28 13:57:18,068 - INFO - Analyzing tag 5.10.0 (37/75).
+2025-10-28 13:57:18,696 - INFO - Analyzing tag 5.10.1 (38/75).
+2025-10-28 13:57:19,244 - INFO - Analyzing tag 5.10.2 (39/75).
+2025-10-28 13:57:19,800 - INFO - Analyzing tag 5.10.3 (40/75).
+2025-10-28 13:57:20,328 - INFO - Analyzing tag 5.12.1 (41/75).
+2025-10-28 13:57:20,883 - INFO - Analyzing tag 5.12.1-fixed (42/75).
+2025-10-28 13:57:21,430 - INFO - Analyzing tag 6.3.0-beta (43/75).
+2025-10-28 13:57:22,049 - INFO - Analyzing tag 6.4.0-alpha (44/75).
+2025-10-28 13:57:22,617 - INFO - Analyzing tag v6.4.0 (45/75).
+2025-10-28 13:57:23,220 - INFO - Analyzing tag v6.5.1 (46/75).
+2025-10-28 13:57:23,793 - INFO - Analyzing tag v6.5.2 (47/75).
+2025-10-28 13:57:24,378 - INFO - Analyzing tag 6.5.2-deno (48/75).
+2025-10-28 13:57:24,896 - INFO - Analyzing tag v6.5.3 (49/75).
+2025-10-28 13:57:25,475 - INFO - Analyzing tag v6.6.0 (50/75).
+2025-10-28 13:57:26,032 - INFO - Analyzing tag v6.7.0 (51/75).
+2025-10-28 13:57:26,637 - INFO - Analyzing tag 7.0.0-alpha (52/75).
+2025-10-28 13:57:27,315 - INFO - Analyzing tag 7.0.0-beta (53/75).
+2025-10-28 13:57:27,885 - INFO - Analyzing tag v7.0.0 (54/75).
+2025-10-28 13:57:28,447 - INFO - Analyzing tag v7.0.1 (55/75).
+2025-10-28 13:57:28,977 - INFO - Analyzing tag v7.2.1 (56/75).
+2025-10-28 13:57:29,636 - INFO - Analyzing tag v7.4.0 (57/75).
+2025-10-28 13:57:30,232 - INFO - Analyzing tag v8.3.0 (58/75).
+2025-10-28 13:57:30,828 - INFO - Analyzing tag v8.4.0 (59/75).
+2025-10-28 13:57:31,376 - INFO - Analyzing tag v8.5.0 (60/75).
+2025-10-28 13:57:31,919 - INFO - Analyzing tag v8.6.0 (61/75).
+2025-10-28 13:57:32,455 - INFO - Analyzing tag v9.1.0 (62/75).
+2025-10-28 13:57:33,043 - INFO - Analyzing tag v9.1.1 (63/75).
+2025-10-28 13:57:33,626 - INFO - Analyzing tag v9.2.0 (64/75).
+2025-10-28 13:57:34,167 - INFO - Analyzing tag 9.2.1 (65/75).
+2025-10-28 13:57:34,707 - INFO - Analyzing tag 9.3.0 (66/75).
+2025-10-28 13:57:35,236 - INFO - Analyzing tag 9.4.0 (67/75).
+2025-10-28 13:57:35,764 - INFO - Analyzing tag 9.4.1 (68/75).
+2025-10-28 13:57:36,310 - INFO - Analyzing tag v9.4.0 (69/75).
+2025-10-28 13:57:36,837 - INFO - Analyzing tag 9.4.2 (70/75).
+2025-10-28 13:57:37,370 - INFO - Analyzing tag 10.0.0-alpha.0 (71/75).
+2025-10-28 13:57:38,052 - INFO - Analyzing tag v10.0.0-beta.1 (72/75).
+2025-10-28 13:57:38,619 - INFO - Analyzing tag v10.0.0 (73/75).
+2025-10-28 13:57:39,173 - INFO - Analyzing tag PRE-TEST (74/75).
+2025-10-28 13:57:39,731 - INFO - Analyzing tag TEST (75/75).
+2025-10-28 13:57:40,271 - INFO - Exporting BlankSpaceAnalyzer results to CSV...
+2025-10-28 13:57:40,847 - INFO - Blank Space Ratio report saved to: analytics/rambda/manipulated_blank_space/blank_space_ratio.csv
+2025-10-28 13:57:40,847 - INFO - Max Line Length report saved to: analytics/rambda/manipulated_blank_space/blank_space_max_line_length.csv
+2025-10-28 13:57:40,848 - INFO - Results saved in: analytics/rambda/manipulated_blank_space

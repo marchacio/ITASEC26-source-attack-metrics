@@ -1,31 +1,30 @@
-# Most Popular npm Packages Dataset
+# Dataset
 
-This file is a snapshot (22/10/2025) of a ranked list of popular npm packages copied from the `npm-rank` project:
-https://github.com/tristan-f-r/npm-rank
+This folder contains package lists and small example datasets used by the analyzers in this repository. It includes the original popularity snapshot used to drive large-scale runs, plus a small, local test dataset with both unobfuscated and obfuscated variants for fast experiments.
 
-What this dataset is
-- Filename: `most_popular_packs_22_10_25.json`
-- Content: a JSON array/object containing packages ordered by popularity as collected on October 22, 2025.
+## Overview of contents
+- `most_popular_packs_22_10_25.json` — a snapshot (2025-10-22) of popular npm packages sourced from the `npm-rank` project (https://github.com/tristan-f-r/npm-rank). Use this file for larger, real-world runs.
+- `mini_manipulated_bst_dataset/` — a compact dataset intended for testing and demonstrations. It contains two variants:
+	- `not_obfuscated_payload/` — a set of packages manipulated using the non-obfuscated RATatouille payload.
+	- `obfuscated_payload/` — the same set of examples but with the real-obfuscated RATatouille payload.
+- `npm_most_popular/` — dataset of analyzed packages using the `most_popular_packs_22_10_25.json` snapshot.
+	- `most_popular_packs_22_10_25.json`
+	- `BST/` and `HUT/` — output directories produced by the `BST_analyzer.py` and `HUT_analyzer.py` scripts respectively.
 
-## About `npm-rank`
-`npm-rank` is a project that collects and ranks npm packages according to popularity signals. It queries public sources (the npm registry and related metadata) and produces ranked lists that are useful for research, analysis, and tooling. For the definitive description of the project's functionality and options, consult the original repository: https://github.com/tristan-f-r/npm-rank
+## Usage guidance
+- Quick local test: point the analyzer scripts to `mini_manipulated_dataset/not_obfuscated_payload` or `mini_manipulated_dataset/obfuscated_payload` (or modify the scripts to read a short package list) to run fast, offline checks without hitting the npm registry.
+- Full runs: use `most_popular_packs_22_10_25.json` as `PACKAGE_FILE` in `scripts/*.py` to run large-scale collection and analysis.
 
-## How package popularity is generally measured
-The exact ranking algorithm used by `npm-rank` (or other ranking tools) may vary. Popularity is typically estimated using a combination of publicly-available signals, for example:
-- Download counts (weekly/monthly) reported by the npm registry
-- Number of dependents (how many packages depend on a package)
-- GitHub stars, forks and watchers (when available and correlated)
-- Recent activity / releases and maintenance status
+## Format notes
+- The snapshot `most_popular_packs_22_10_25.json` is a JSON array (or list of objects) with package names and package metadata. The analyzer scripts use a streaming parser (`ijson`) and expect each item to be either a string (package name) or an object containing a `name` field.
+- The `mini_manipulated_dataset` directories are structured to mimic the layout that the analysis scripts expect after downloading and extracting package tarballs (package/version/... files). This makes it simple to run the scripts against local test data.
 
-Note: npm's own website and API do not publish a single canonical "popularity score"; tools like `npm-rank` combine multiple metrics to produce a practical ranking. The exact weights and heuristics are implementation-specific and may be documented in the source project.
+## Safety and reproducibility
+- The `obfuscated_payload` examples are intended for research; do not execute unknown payloads on production systems. Prefer static analysis and isolated environments.
+- When reproducing experiments, record the snapshot filename and date. The `scripts` write `processed*.log` files so runs can be resumed.
 
-## Usage notes and precautions
-- This JSON snapshot is provided for analysis, reproducibility, and research. It should not be treated as an authoritative or up-to-date ranking beyond the snapshot date.
-- If you rely on popularity rankings for experiments, cite the snapshot date (`2025-10-22`) and the source repository.
-- To reproduce or update this dataset, follow the instructions in the `npm-rank` repository and re-run the data collection on the desired date.
+## Attribution
+This dataset includes data derived from `npm-rank` and small locally-built manipulated examples created for testing. If you reuse these materials in research, please cite the dataset snapshot date and the source repository.
 
-## Citation / attribution
-This dataset was produced using methods and scripts based on `npm-rank`. Please attribute the original project where appropriate and include this repository as the place where you found the snapshot.
-
-## Questions or corrections
-If you find issues in the snapshot or want help reproducing the dataset, open an issue in the parent repository or contact the maintainers.
+## Issues or help
+If you need help using the datasets or want to contribute improved test cases, open an issue in the parent repository.

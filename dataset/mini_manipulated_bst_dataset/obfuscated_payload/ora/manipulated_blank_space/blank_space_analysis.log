@@ -1,0 +1,60 @@
+2025-10-29 14:22:32,476 - INFO - Cloning https://github.com/sindresorhus/ora...
+2025-10-29 14:22:33,200 - INFO - Repository 'ora' successfully cloned to 'repos/ora'.
+2025-10-29 14:22:33,300 - INFO - Starting analysis of repository ora with extension js.
+Manipulated file: /Users/marco/Projects/BST_HUT_analyzer/repos/ora/example.js
+2025-10-29 14:22:33,332 - INFO - Analyzing 51 tags for extension 'js'.
+2025-10-29 14:22:33,332 - INFO - Analyzing tag v0.1.0 (1/51).
+2025-10-29 14:22:33,846 - INFO - Analyzing tag v0.1.1 (2/51).
+2025-10-29 14:22:34,354 - INFO - Analyzing tag v0.2.0 (3/51).
+2025-10-29 14:22:34,841 - INFO - Analyzing tag v0.2.1 (4/51).
+2025-10-29 14:22:35,321 - INFO - Analyzing tag v0.2.2 (5/51).
+2025-10-29 14:22:35,816 - INFO - Analyzing tag v0.2.3 (6/51).
+2025-10-29 14:22:36,305 - INFO - Analyzing tag v0.3.0 (7/51).
+2025-10-29 14:22:36,810 - INFO - Analyzing tag v0.4.0 (8/51).
+2025-10-29 14:22:37,293 - INFO - Analyzing tag v0.4.1 (9/51).
+2025-10-29 14:22:37,789 - INFO - Analyzing tag v1.0.0 (10/51).
+2025-10-29 14:22:38,271 - INFO - Analyzing tag v1.1.0 (11/51).
+2025-10-29 14:22:38,765 - INFO - Analyzing tag v1.2.0 (12/51).
+2025-10-29 14:22:39,261 - INFO - Analyzing tag v1.3.0 (13/51).
+2025-10-29 14:22:39,761 - INFO - Analyzing tag v1.4.0 (14/51).
+2025-10-29 14:22:40,254 - INFO - Analyzing tag v2.0.0 (15/51).
+2025-10-29 14:22:40,756 - INFO - Analyzing tag v2.1.0 (16/51).
+2025-10-29 14:22:41,259 - INFO - Analyzing tag v3.0.0 (17/51).
+2025-10-29 14:22:41,762 - INFO - Analyzing tag v3.1.0 (18/51).
+2025-10-29 14:22:42,265 - INFO - Analyzing tag v3.2.0 (19/51).
+2025-10-29 14:22:42,759 - INFO - Analyzing tag v3.3.0 (20/51).
+2025-10-29 14:22:43,248 - INFO - Analyzing tag v3.3.1 (21/51).
+2025-10-29 14:22:43,745 - INFO - Analyzing tag v3.4.0 (22/51).
+2025-10-29 14:22:44,226 - INFO - Analyzing tag v4.0.0 (23/51).
+2025-10-29 14:22:44,730 - INFO - Analyzing tag v4.0.1 (24/51).
+2025-10-29 14:22:45,215 - INFO - Analyzing tag v4.0.2 (25/51).
+2025-10-29 14:22:45,708 - INFO - Analyzing tag v4.0.3 (26/51).
+2025-10-29 14:22:46,200 - INFO - Analyzing tag v4.0.4 (27/51).
+2025-10-29 14:22:46,712 - INFO - Analyzing tag v4.0.5 (28/51).
+2025-10-29 14:22:47,210 - INFO - Analyzing tag v5.0.0 (29/51).
+2025-10-29 14:22:47,711 - INFO - Analyzing tag v5.1.0 (30/51).
+2025-10-29 14:22:48,205 - INFO - Analyzing tag v5.2.0 (31/51).
+2025-10-29 14:22:48,692 - INFO - Analyzing tag v5.3.0 (32/51).
+2025-10-29 14:22:49,188 - INFO - Analyzing tag v5.4.0 (33/51).
+2025-10-29 14:22:49,675 - INFO - Analyzing tag v5.4.1 (34/51).
+2025-10-29 14:22:50,171 - INFO - Analyzing tag v6.0.0 (35/51).
+2025-10-29 14:22:50,661 - INFO - Analyzing tag v6.0.1 (36/51).
+2025-10-29 14:22:51,151 - INFO - Analyzing tag v6.1.0 (37/51).
+2025-10-29 14:22:51,627 - INFO - Analyzing tag v6.1.1 (38/51).
+2025-10-29 14:22:52,129 - INFO - Analyzing tag v6.1.2 (39/51).
+2025-10-29 14:22:52,633 - INFO - Analyzing tag v6.2.0 (40/51).
+2025-10-29 14:22:53,126 - INFO - Analyzing tag v6.3.0 (41/51).
+2025-10-29 14:22:53,623 - INFO - Analyzing tag v6.3.1 (42/51).
+2025-10-29 14:22:54,100 - INFO - Analyzing tag v7.0.0 (43/51).
+2025-10-29 14:22:54,584 - INFO - Analyzing tag v7.0.1 (44/51).
+2025-10-29 14:22:55,075 - INFO - Analyzing tag v8.0.0 (45/51).
+2025-10-29 14:22:55,554 - INFO - Analyzing tag v8.0.1 (46/51).
+2025-10-29 14:22:56,044 - INFO - Analyzing tag v8.1.0 (47/51).
+2025-10-29 14:22:56,562 - INFO - Analyzing tag v8.1.1 (48/51).
+2025-10-29 14:22:57,048 - INFO - Analyzing tag v8.2.0 (49/51).
+2025-10-29 14:22:57,525 - INFO - Analyzing tag v9.0.0 (50/51).
+2025-10-29 14:22:58,020 - INFO - Analyzing tag TEST (51/51).
+2025-10-29 14:22:58,528 - INFO - Exporting BlankSpaceAnalyzer results to CSV...
+2025-10-29 14:22:58,548 - INFO - Blank Space Ratio report saved to: analytics/ora/manipulated_blank_space/blank_space_ratio.csv
+2025-10-29 14:22:58,548 - INFO - Max Line Length report saved to: analytics/ora/manipulated_blank_space/blank_space_max_line_length.csv
+2025-10-29 14:22:58,548 - INFO - Results saved in: analytics/ora/manipulated_blank_space

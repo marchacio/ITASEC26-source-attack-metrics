@@ -1,0 +1,36 @@
+2025-10-28 13:54:27,073 - INFO - Cloning https://github.com/frejs/fre...
+2025-10-28 13:54:29,042 - INFO - Repository 'fre' successfully cloned to 'repos/fre'.
+2025-10-28 13:54:29,163 - INFO - Starting analysis of repository fre with extension js.
+Manipulated file: /Users/marco/Projects/BST_HUT_analyzer/repos/fre/rollup.config.js
+2025-10-28 13:54:29,194 - INFO - Analyzing 27 tags for extension 'js'.
+2025-10-28 13:54:29,194 - INFO - Analyzing tag 1.7.10 (1/27).
+2025-10-28 13:54:29,914 - INFO - Analyzing tag 1.8.8 (2/27).
+2025-10-28 13:54:30,439 - INFO - Analyzing tag 1.9.6 (3/27).
+2025-10-28 13:54:31,009 - INFO - Analyzing tag 1.11.4 (4/27).
+2025-10-28 13:54:31,625 - INFO - Analyzing tag 1.12.2 (5/27).
+2025-10-28 13:54:32,187 - INFO - Analyzing tag 1.12.6 (6/27).
+2025-10-28 13:54:32,733 - INFO - Analyzing tag 1.13.4 (7/27).
+2025-10-28 13:54:33,277 - INFO - Analyzing tag 1.13.5 (8/27).
+2025-10-28 13:54:33,795 - INFO - Analyzing tag 2.0.0.beta (9/27).
+2025-10-28 13:54:34,468 - INFO - Analyzing tag 2.0.0.beta2 (10/27).
+2025-10-28 13:54:35,093 - INFO - Analyzing tag 2.0.0.rc (11/27).
+2025-10-28 13:54:35,745 - INFO - Analyzing tag v2.0.0 (12/27).
+2025-10-28 13:54:36,442 - INFO - Analyzing tag 2.0.1-alpha (13/27).
+2025-10-28 13:54:37,075 - INFO - Analyzing tag 2.1.0-alpha (14/27).
+2025-10-28 13:54:37,798 - INFO - Analyzing tag 2.1.0 (15/27).
+2025-10-28 13:54:38,401 - INFO - Analyzing tag 2.4.1 (16/27).
+2025-10-28 13:54:39,016 - INFO - Analyzing tag 2.6.1 (17/27).
+2025-10-28 13:54:39,692 - INFO - Analyzing tag 2.6.4 (18/27).
+2025-10-28 13:54:40,333 - INFO - Analyzing tag 2.7.0 (19/27).
+2025-10-28 13:54:40,986 - INFO - Analyzing tag 2.7.1 (20/27).
+2025-10-28 13:54:41,653 - INFO - Analyzing tag 2.7.4 (21/27).
+2025-10-28 13:54:42,288 - INFO - Analyzing tag 2.7.6 (22/27).
+2025-10-28 13:54:42,922 - INFO - Analyzing tag 2.8.0 (23/27).
+2025-10-28 13:54:43,590 - INFO - Analyzing tag 2.8.5 (24/27).
+2025-10-28 13:54:44,334 - INFO - Analyzing tag 2.8.8 (25/27).
+2025-10-28 13:54:44,967 - INFO - Analyzing tag PRE-TEST (26/27).
+2025-10-28 13:54:45,565 - INFO - Analyzing tag TEST (27/27).
+2025-10-28 13:54:46,231 - INFO - Exporting BlankSpaceAnalyzer results to CSV...
+2025-10-28 13:54:46,248 - INFO - Blank Space Ratio report saved to: analytics/fre/manipulated_blank_space/blank_space_ratio.csv
+2025-10-28 13:54:46,248 - INFO - Max Line Length report saved to: analytics/fre/manipulated_blank_space/blank_space_max_line_length.csv
+2025-10-28 13:54:46,248 - INFO - Results saved in: analytics/fre/manipulated_blank_space

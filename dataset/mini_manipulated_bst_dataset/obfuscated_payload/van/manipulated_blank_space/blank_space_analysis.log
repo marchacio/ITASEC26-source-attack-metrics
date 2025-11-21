@@ -1,0 +1,43 @@
+2025-10-29 13:56:50,196 - INFO - Cloning https://github.com/vanjs-org/van...
+2025-10-29 13:56:51,643 - INFO - Repository 'van' successfully cloned to 'repos/van'.
+2025-10-29 13:56:51,833 - INFO - Starting analysis of repository van with extension js.
+Manipulated file: /Users/marco/Projects/BST_HUT_analyzer/repos/van/addons/van_jsx/src/index.js
+2025-10-29 13:56:51,859 - INFO - Analyzing 34 tags for extension 'js'.
+2025-10-29 13:56:51,860 - INFO - Analyzing tag 0.11.9 (1/34).
+2025-10-29 13:56:52,520 - INFO - Analyzing tag 0.11.10 (2/34).
+2025-10-29 13:56:53,241 - INFO - Analyzing tag 0.11.11 (3/34).
+2025-10-29 13:56:53,825 - INFO - Analyzing tag 0.12.0 (4/34).
+2025-10-29 13:56:54,443 - INFO - Analyzing tag 0.12.1 (5/34).
+2025-10-29 13:56:54,994 - INFO - Analyzing tag 0.12.2 (6/34).
+2025-10-29 13:56:55,547 - INFO - Analyzing tag 0.12.3 (7/34).
+2025-10-29 13:56:56,027 - INFO - Analyzing tag Van-DML-0.1.0 (8/34).
+2025-10-29 13:56:56,549 - INFO - Analyzing tag 0.12.4 (9/34).
+2025-10-29 13:56:57,058 - INFO - Analyzing tag 1.0.0 (10/34).
+2025-10-29 13:56:57,563 - INFO - Analyzing tag 1.0.1 (11/34).
+2025-10-29 13:56:58,032 - INFO - Analyzing tag 1.0.2 (12/34).
+2025-10-29 13:56:58,597 - INFO - Analyzing tag 1.1.0 (13/34).
+2025-10-29 13:56:59,120 - INFO - Analyzing tag 1.1.3 (14/34).
+2025-10-29 13:56:59,680 - INFO - Analyzing tag 1.2.0 (15/34).
+2025-10-29 13:57:00,258 - INFO - Analyzing tag 1.2.1 (16/34).
+2025-10-29 13:57:00,855 - INFO - Analyzing tag 1.2.2 (17/34).
+2025-10-29 13:57:01,444 - INFO - Analyzing tag 1.2.3 (18/34).
+2025-10-29 13:57:02,013 - INFO - Analyzing tag 1.2.4 (19/34).
+2025-10-29 13:57:02,548 - INFO - Analyzing tag 1.2.5 (20/34).
+2025-10-29 13:57:03,119 - INFO - Analyzing tag 1.2.6 (21/34).
+2025-10-29 13:57:03,655 - INFO - Analyzing tag 1.2.7 (22/34).
+2025-10-29 13:57:04,171 - INFO - Analyzing tag 1.2.8 (23/34).
+2025-10-29 13:57:04,730 - INFO - Analyzing tag 1.3.0 (24/34).
+2025-10-29 13:57:05,274 - INFO - Analyzing tag 1.4.0 (25/34).
+2025-10-29 13:57:05,811 - INFO - Analyzing tag 1.4.1 (26/34).
+2025-10-29 13:57:06,335 - INFO - Analyzing tag 1.5.0 (27/34).
+2025-10-29 13:57:06,853 - INFO - Analyzing tag 1.5.1 (28/34).
+2025-10-29 13:57:07,350 - INFO - Analyzing tag 1.5.2 (29/34).
+2025-10-29 13:57:07,915 - INFO - Analyzing tag 1.5.3 (30/34).
+2025-10-29 13:57:08,461 - INFO - Analyzing tag 1.5.5 (31/34).
+2025-10-29 13:57:09,018 - INFO - Analyzing tag 1.6.0 (32/34).
+2025-10-29 13:57:09,545 - INFO - Analyzing tag PRE-TEST (33/34).
+2025-10-29 13:57:10,078 - INFO - Analyzing tag TEST (34/34).
+2025-10-29 13:57:10,611 - INFO - Exporting BlankSpaceAnalyzer results to CSV...
+2025-10-29 13:57:10,632 - INFO - Blank Space Ratio report saved to: analytics/van/manipulated_blank_space/blank_space_ratio.csv
+2025-10-29 13:57:10,632 - INFO - Max Line Length report saved to: analytics/van/manipulated_blank_space/blank_space_max_line_length.csv
+2025-10-29 13:57:10,632 - INFO - Results saved in: analytics/van/manipulated_blank_space

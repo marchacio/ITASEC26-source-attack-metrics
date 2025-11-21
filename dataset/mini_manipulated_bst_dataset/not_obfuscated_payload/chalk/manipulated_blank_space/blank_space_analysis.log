@@ -1,0 +1,54 @@
+2025-10-28 14:18:44,314 - INFO - Cloning https://github.com/chalk/chalk...
+2025-10-28 14:18:45,187 - INFO - Repository 'chalk' successfully cloned to 'repos/chalk'.
+2025-10-28 14:18:45,304 - INFO - Starting analysis of repository chalk with extension js.
+Manipulated file: /Users/marco/Projects/BST_HUT_analyzer/repos/chalk/source/utilities.js
+2025-10-28 14:18:45,337 - INFO - Analyzing 45 tags for extension 'js'.
+2025-10-28 14:18:45,337 - INFO - Analyzing tag v0.1.0 (1/45).
+2025-10-28 14:18:45,935 - INFO - Analyzing tag v0.1.1 (2/45).
+2025-10-28 14:18:46,480 - INFO - Analyzing tag v0.2.0 (3/45).
+2025-10-28 14:18:46,981 - INFO - Analyzing tag v0.2.1 (4/45).
+2025-10-28 14:18:47,461 - INFO - Analyzing tag v0.3.0 (5/45).
+2025-10-28 14:18:47,947 - INFO - Analyzing tag v0.4.0 (6/45).
+2025-10-28 14:18:48,446 - INFO - Analyzing tag v0.5.0 (7/45).
+2025-10-28 14:18:48,944 - INFO - Analyzing tag v0.5.1 (8/45).
+2025-10-28 14:18:49,446 - INFO - Analyzing tag v1.0.0 (9/45).
+2025-10-28 14:18:49,935 - INFO - Analyzing tag v1.1.0 (10/45).
+2025-10-28 14:18:50,434 - INFO - Analyzing tag v1.1.1 (11/45).
+2025-10-28 14:18:50,922 - INFO - Analyzing tag v1.1.2 (12/45).
+2025-10-28 14:18:51,405 - INFO - Analyzing tag v1.1.3 (13/45).
+2025-10-28 14:18:51,893 - INFO - Analyzing tag v2.0.0 (14/45).
+2025-10-28 14:18:52,390 - INFO - Analyzing tag v2.0.1 (15/45).
+2025-10-28 14:18:52,894 - INFO - Analyzing tag v2.1.0 (16/45).
+2025-10-28 14:18:53,390 - INFO - Analyzing tag v2.2.0 (17/45).
+2025-10-28 14:18:53,892 - INFO - Analyzing tag v2.2.1 (18/45).
+2025-10-28 14:18:54,378 - INFO - Analyzing tag v2.2.2 (19/45).
+2025-10-28 14:18:54,866 - INFO - Analyzing tag v2.3.0 (20/45).
+2025-10-28 14:18:55,357 - INFO - Analyzing tag v2.3.1 (21/45).
+2025-10-28 14:18:55,851 - INFO - Analyzing tag v2.3.2 (22/45).
+2025-10-28 14:18:56,337 - INFO - Analyzing tag v2.4.0 (23/45).
+2025-10-28 14:18:56,831 - INFO - Analyzing tag v2.4.1 (24/45).
+2025-10-28 14:18:57,297 - INFO - Analyzing tag v2.4.2 (25/45).
+2025-10-28 14:18:57,789 - INFO - Analyzing tag v3.0.0-beta.1 (26/45).
+2025-10-28 14:18:58,294 - INFO - Analyzing tag v3.0.0-beta.2 (27/45).
+2025-10-28 14:18:58,786 - INFO - Analyzing tag v3.0.0 (28/45).
+2025-10-28 14:18:59,265 - INFO - Analyzing tag v4.0.0 (29/45).
+2025-10-28 14:18:59,751 - INFO - Analyzing tag v4.1.0 (30/45).
+2025-10-28 14:19:00,243 - INFO - Analyzing tag v4.1.1 (31/45).
+2025-10-28 14:19:00,753 - INFO - Analyzing tag v4.1.2 (32/45).
+2025-10-28 14:19:01,247 - INFO - Analyzing tag v5.0.0 (33/45).
+2025-10-28 14:19:01,747 - INFO - Analyzing tag v5.0.1 (34/45).
+2025-10-28 14:19:02,231 - INFO - Analyzing tag v5.1.0 (35/45).
+2025-10-28 14:19:02,731 - INFO - Analyzing tag v5.1.1 (36/45).
+2025-10-28 14:19:03,220 - INFO - Analyzing tag v5.1.2 (37/45).
+2025-10-28 14:19:03,711 - INFO - Analyzing tag v5.2.0 (38/45).
+2025-10-28 14:19:04,196 - INFO - Analyzing tag v5.3.0 (39/45).
+2025-10-28 14:19:04,685 - INFO - Analyzing tag v5.4.0 (40/45).
+2025-10-28 14:19:05,183 - INFO - Analyzing tag v5.4.1 (41/45).
+2025-10-28 14:19:05,671 - INFO - Analyzing tag v5.5.0 (42/45).
+2025-10-28 14:19:06,162 - INFO - Analyzing tag v5.6.0 (43/45).
+2025-10-28 14:19:06,652 - INFO - Analyzing tag v5.6.2 (44/45).
+2025-10-28 14:19:07,147 - INFO - Analyzing tag TEST (45/45).
+2025-10-28 14:19:07,637 - INFO - Exporting BlankSpaceAnalyzer results to CSV...
+2025-10-28 14:19:07,657 - INFO - Blank Space Ratio report saved to: analytics/chalk/manipulated_blank_space/blank_space_ratio.csv
+2025-10-28 14:19:07,657 - INFO - Max Line Length report saved to: analytics/chalk/manipulated_blank_space/blank_space_max_line_length.csv
+2025-10-28 14:19:07,657 - INFO - Results saved in: analytics/chalk/manipulated_blank_space

@@ -1,0 +1,72 @@
+2025-10-29 13:51:12,980 - INFO - Cloning https://github.com/molefrog/wouter...
+2025-10-29 13:51:13,863 - INFO - Repository 'wouter' successfully cloned to 'repos/wouter'.
+2025-10-29 13:51:13,913 - INFO - Starting analysis of repository wouter with extension js.
+Manipulated file: None
+2025-10-29 13:51:13,942 - INFO - Analyzing 63 tags for extension 'js'.
+2025-10-29 13:51:13,942 - INFO - Analyzing tag v1.1.0 (1/63).
+2025-10-29 13:51:14,475 - INFO - Analyzing tag v1.2.0 (2/63).
+2025-10-29 13:51:15,043 - INFO - Analyzing tag v1.2.1 (3/63).
+2025-10-29 13:51:15,594 - INFO - Analyzing tag v1.2.2 (4/63).
+2025-10-29 13:51:16,128 - INFO - Analyzing tag v1.2.3 (5/63).
+2025-10-29 13:51:16,627 - INFO - Analyzing tag v1.3.0 (6/63).
+2025-10-29 13:51:17,117 - INFO - Analyzing tag v1.3.1 (7/63).
+2025-10-29 13:51:17,594 - INFO - Analyzing tag v1.3.2 (8/63).
+2025-10-29 13:51:18,093 - INFO - Analyzing tag v2.0.0-alpha (9/63).
+2025-10-29 13:51:18,605 - INFO - Analyzing tag v2.0.0 (10/63).
+2025-10-29 13:51:19,094 - INFO - Analyzing tag v2.1.0 (11/63).
+2025-10-29 13:51:19,596 - INFO - Analyzing tag v2.1.1 (12/63).
+2025-10-29 13:51:20,100 - INFO - Analyzing tag v2.2.0 (13/63).
+2025-10-29 13:51:20,594 - INFO - Analyzing tag v2.2.1 (14/63).
+2025-10-29 13:51:21,084 - INFO - Analyzing tag v2.3.0 (15/63).
+2025-10-29 13:51:21,597 - INFO - Analyzing tag v2.3.1 (16/63).
+2025-10-29 13:51:22,100 - INFO - Analyzing tag v2.4.0 (17/63).
+2025-10-29 13:51:22,598 - INFO - Analyzing tag v2.5.0 (18/63).
+2025-10-29 13:51:23,093 - INFO - Analyzing tag v2.5.1 (19/63).
+2025-10-29 13:51:23,595 - INFO - Analyzing tag v2.5.2 (20/63).
+2025-10-29 13:51:24,090 - INFO - Analyzing tag v2.5.3 (21/63).
+2025-10-29 13:51:24,544 - INFO - Analyzing tag v2.6.0 (22/63).
+2025-10-29 13:51:25,009 - INFO - Analyzing tag v2.7.0 (23/63).
+2025-10-29 13:51:25,483 - INFO - Analyzing tag v2.7.2 (24/63).
+2025-10-29 13:51:25,954 - INFO - Analyzing tag v2.7.3 (25/63).
+2025-10-29 13:51:26,414 - INFO - Analyzing tag v2.7.4 (26/63).
+2025-10-29 13:51:26,872 - INFO - Analyzing tag v2.7.5 (27/63).
+2025-10-29 13:51:27,331 - INFO - Analyzing tag v2.8.0-alpha.2 (28/63).
+2025-10-29 13:51:27,807 - INFO - Analyzing tag v2.8.0 (29/63).
+2025-10-29 13:51:28,293 - INFO - Analyzing tag v2.8.1 (30/63).
+2025-10-29 13:51:28,773 - INFO - Analyzing tag v2.9.0 (31/63).
+2025-10-29 13:51:29,213 - INFO - Analyzing tag v2.9.1 (32/63).
+2025-10-29 13:51:29,678 - INFO - Analyzing tag v2.9.2 (33/63).
+2025-10-29 13:51:30,133 - INFO - Analyzing tag v2.10.0-alpha.1 (34/63).
+2025-10-29 13:51:30,563 - INFO - Analyzing tag v2.10.0 (35/63).
+2025-10-29 13:51:31,035 - INFO - Analyzing tag v2.10.1 (36/63).
+2025-10-29 13:51:31,537 - INFO - Analyzing tag v2.11.0 (37/63).
+2025-10-29 13:51:31,974 - INFO - Analyzing tag v2.12.0 (38/63).
+2025-10-29 13:51:32,445 - INFO - Analyzing tag v2.12.1 (39/63).
+2025-10-29 13:51:32,912 - INFO - Analyzing tag v3.0.0-rc.1 (40/63).
+2025-10-29 13:51:32,963 - INFO - Analyzing tag v2.12.2-preact (41/63).
+2025-10-29 13:51:33,462 - INFO - Analyzing tag v3.0.0-rc.2 (42/63).
+2025-10-29 13:51:33,509 - INFO - Analyzing tag v3.0.0 (43/63).
+2025-10-29 13:51:33,548 - INFO - Analyzing tag v3.0.1 (44/63).
+2025-10-29 13:51:33,600 - INFO - Analyzing tag v3.0.2 (45/63).
+2025-10-29 13:51:33,644 - INFO - Analyzing tag v3.1.0 (46/63).
+2025-10-29 13:51:33,723 - INFO - Analyzing tag v3.1.1 (47/63).
+2025-10-29 13:51:33,767 - INFO - Analyzing tag v3.1.2 (48/63).
+2025-10-29 13:51:33,809 - INFO - Analyzing tag v3.1.3 (49/63).
+2025-10-29 13:51:33,856 - INFO - Analyzing tag v3.2.0 (50/63).
+2025-10-29 13:51:33,908 - INFO - Analyzing tag v3.2.1 (51/63).
+2025-10-29 13:51:33,958 - INFO - Analyzing tag v3.3.0 (52/63).
+2025-10-29 13:51:34,004 - INFO - Analyzing tag v3.3.1 (53/63).
+2025-10-29 13:51:34,049 - INFO - Analyzing tag v3.3.2 (54/63).
+2025-10-29 13:51:34,086 - INFO - Analyzing tag v3.3.3 (55/63).
+2025-10-29 13:51:34,133 - INFO - Analyzing tag v3.3.4 (56/63).
+2025-10-29 13:51:34,178 - INFO - Analyzing tag v3.3.5 (57/63).
+2025-10-29 13:51:34,222 - INFO - Analyzing tag v3.4.0 (58/63).
+2025-10-29 13:51:34,299 - INFO - Analyzing tag v3.5.0 (59/63).
+2025-10-29 13:51:34,347 - INFO - Analyzing tag v3.5.1 (60/63).
+2025-10-29 13:51:34,393 - INFO - Analyzing tag v3.6.0 (61/63).
+2025-10-29 13:51:34,446 - INFO - Analyzing tag v3.6.1 (62/63).
+2025-10-29 13:51:34,501 - INFO - Analyzing tag v3.7.0 (63/63).
+2025-10-29 13:51:34,561 - INFO - Exporting BlankSpaceAnalyzer results to CSV...
+2025-10-29 13:51:34,586 - INFO - Blank Space Ratio report saved to: analytics/wouter/manipulated_blank_space/blank_space_ratio.csv
+2025-10-29 13:51:34,586 - INFO - Max Line Length report saved to: analytics/wouter/manipulated_blank_space/blank_space_max_line_length.csv
+2025-10-29 13:51:34,586 - INFO - Results saved in: analytics/wouter/manipulated_blank_space
