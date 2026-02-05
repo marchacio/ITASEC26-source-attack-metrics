@@ -8,7 +8,7 @@ This repository contains data, tools and example artifacts used for research int
 - `resources/` — example payloads and other small artifacts preserved for reproducible study (includes `ratatouille_payload`).
 
 ## Why this repo
-This project is the base for our paper [TODO](https://example.com/paper) and  supports experiments into how attackers may hide malicious code in source distributions (obfuscation, homoglyphs, invisible characters, monolithic minified payloads) and provides simple detection-ready metrics (blank-space ratios, max line lengths, homoglyph/invisible counts) across historical versions of packages.
+This project is the base for [our paper](https://github.com/marchacio/ITASEC26-source-attack-metrics/blob/main/itasec26_source_attack_metrics_paper.pdf) and  supports experiments into how attackers may hide malicious code in source distributions (obfuscation, homoglyphs, invisible characters, monolithic minified payloads) and provides simple detection-ready metrics (blank-space ratios, max line lengths, homoglyph/invisible counts) across historical versions of packages.
 
 
 ## Safety and responsible use
