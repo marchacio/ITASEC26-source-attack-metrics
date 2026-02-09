@@ -24,3 +24,10 @@ If you reuse these datasets or scripts in research, please cite the project and 
 
 ## Contact
 For questions about running the analyses or reproducing experiments, open an issue in this repository.
+
+# References
+G. Benedetti, L. Caviglione, G. Lagorio, M. Zoratti, "Software Evolution Metrics for the Detection of Trojan Code in npm Packages", ITASEC - SERICS Joint National Conference on CyberSecurity, Cagliari, Italy, February 2026.
+
+# Acknowledgments
+This work was partially supported by Project SERICS (PE00000014) under the NRRP MUR
+program funded by the EU - NGEU.
